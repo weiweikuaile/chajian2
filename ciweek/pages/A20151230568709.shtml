@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="分享经济背景下的云服务,本文主要介绍普通,内容, 分享经济下的云服务，如果用一句话概括，可以说就是，分享得越多，收获得越多。">
+<meta name="keywords" content="普通,普通,内容,云服务,经济,互联网">
+<meta name="author"  content="普通,普通,内容,云服务,经济,互联网">
+<title>分享经济背景下的云服务</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20151230568709";atitle='%C2%B7%C3%96%C3%8F%C3%AD%C2%BE%C2%AD%C2%BC%C3%83%C2%B1%C2%B3%C2%BE%C2%B0%C3%8F%C3%82%C2%B5%C3%84%C3%94%C3%86%C2%B7%C3%BE%C3%8E%C3%B1';a_date="2015-12-30 09:19";a_author="姜奇平";a_source="eNet硅谷动力";a_type="0";a_editor="wgtonga";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="云服务";
+keys[1]="经济";
+keys[2]="互联网";
+var siteid="ciweek";
+var surl="";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">分享经济背景下的云服务</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2015-12-30</span>
+            <span class="spauthor">eNet&Ciweek/姜奇平</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>分享经济下的云服务，如果用一句话概括，可以说就是，分享得越多，收获得越多。</p>
+        </div> 
+        <div class="text">
+        	<p><div class='wzpic'><img src='http://images.enet.com.cn/2015/1230/82/4386150.jpg' width='500' height='330' alt='' title='' border='1' /><p></p></div></p><p>当前互联网正进入行业互联网时代，以分享经济为方向，“互联网+”为业态的云服务，正在其中扮演着核心角色。在云服务主体中，电信云、I T云与互联网云正处于同一起跑线上，具有优越基础条件的电信云具有一定先发优势，如果能在产业云支撑平台有所作为，可以迎来发展的又一个春天。</p><p>强调支撑服务平台在云服务发展中的重要作用，需要结合当前云服务所处大背景的变化来认识。</p><p><b>第一，云服务是分享经济落地的基础。</b>十八届五中全会提出“发展分享经济”，标志着云服务的舞台，开始从局部扩展到经济全局。中央把共享的发展理念，提到“关系我国发展全局的一场深刻变革”高度来认识，云服务也要做好准备大发展，从赚局部发展的小钱，转向挣发展全局的钱。以天翼云为例，不仅可以在电子政务、教育平台上发展，而且可以向各行各业全面渗透，为各行各业分享云基础设施服务、云平台服务和云<a href='http://www.enet.com.cn/esoftware' target='_blank' class='article'>软件</a>服务。</p><p><b>第二，今年3月5日，李克强总理提出发展“互联网+”新业态，这为云服务的发展指出新的方向。</b>“互联网+”不仅仅是互联网+传统产业，而且是一种新业态。“互联网+”业态的特点是“基础业务平台+增值业务平台”，云服务也要从分享经济背景下的云服务简单的应用服务，升级为“平台支撑服务+增值应用服务”的新业态。电信云、I T云与互联网云，谁先做成支撑平台，谁就会成为领先的老大。在这方面，互联网企业除了在EC（<a href='http://www.enet.com.cn/enews/new_enews/list/index.jsp?ccid=6446' target='_blank' class='article'>电子商务</a>）这一个领域之外，在生产性服务领域并没有天然优势。相反，中国电信从过去的话音到互联网接入，再到现在的“互联网+”转型，为生产性服务提供支撑的基本逻辑贯穿如一，只要及时向平台化方向发展，就会领先BAT一步，取得先发优势。未来云支撑平台的价值，有可能超过中国电信的市值。</p><p>问题是怎么发展，才能抓得住大盘子上的机遇。我认为，关键是要用新思路启发和激活对云计算有内在动机的用户的需求和决策。要抓住两个重要的需求升级，进行相应的两个重要服务转变。</p><p><b>第一，顺应从技术服务需求到主营业务服务需求的转变，加强商务云建设。</b></p><p>在分享经济和“ 互联网+ ” 背景下，用户希望通过云计算分享的资源，正从以技术资源为重点，向以主营业务资源为重点转变。这是用户需求上发生的意义深远的一大转变。</p><p>在运营商的实践中，我们已经可以看到这种转变。例如对中国电信天翼云面对的医疗云来说，厦门医疗云计算平台的价值目标之一是“有助于开发医疗信息数据挖掘和商业化应用”。这意味着，“云”助力医疗<a href='http://www.enet.com.cn/cio/' target='_blank' class='article'>信息化</a>，不光要做技术支撑，更重要的是做业务支撑。例如，开展“医疗卫生同城化”工作，厦门市健康医疗云项目接入了占95%医疗卫生资源的医疗卫生机构，实现市民门诊、住院、检查检验、体检信息、妇幼保健、儿童计划免疫等数据共享。</p><p>运营商具有明显的<a href='http://www.enet.com.cn/networks/' target='_blank' class='article'>网络</a>优势。运营商可以通过“云+IDC+大数据”的一体化运营满足政企、行业以及互联网用户的需求。这种需求一旦从只占用户支出不到5%的技术服务需求，升到到占主营业务30%以上的业务服务需求、云服务的收入规模就会成倍上升。为此，运营商需要实现能力的转型，从简单提供低附加值的主机托管、<a href='http://www.enet.com.cn/solution/' target='_blank' class='article'>存储</a>服务，转向提供行业业务的增值性服务上来。</p><p><b>第二，抓住从应用服务需求到支撑服务需求的转变，打造世界级云平台。</b></p><p>需求背景上的另一个变化不那么一目了然，但更加关键。这就是由用户增值需求的旺盛而产生的对支撑服务需求的增长，它导致一些富可敌国的巨型平台的诞生。云服务商来到了做大还是做小的历史分水岭面前。</p><p>国家提出“互联网+”，一般人往往只理解到要进行新旧行业的融合，但这种融合又是为了什么，与云服务是什么关系，往往就不知所以了。事实上，李克强总理谈“互联网+”，明确把它归类在新业态，乃至新结构这一主题项下，要解决各行各业要从低附加值状态，转向高附加值状态的问题。这将意味着，云服务商所面对的客户也要转型，从打价格战的业务，转向差异化的业务。如何降低差异化的成本，获得可持续的利润（所谓“好利润”），就成为客户新的热点和痛点。</p><p>分享经济与平台经济，为客户的这种转型升级，提供了历史机遇。在云计算的技术支撑下，客户通过平台分享通用的商业资源（固定成本、重资产），使差异化、高附加值业务得以实现轻资产运作，就将成为转型关键。由此产生出对云服务商的一种新需求，就是从简单提供业务应用服务，提升到以提供平台支撑服务（如提供开发工具、开发平台）来促进自身的增值业务（APP）。于是，云服务升级为以API和APP为特点的云支撑服务。</p><p>这是未来十年财富增长的主要空间。人们（包括整个欧洲）往往只看到云应用（如生产性服务），而没有看清云支撑（如生产性支撑服务）才是未来重点。过去20年从面向消费的支撑服务产生了BAT，将来的天下则主要是面向生产的支撑服务。如果云服务商不抓住平台化的机遇，就会迅速变成云计算、云服务领域的小生产、小作坊，而只有抓住平台化的机遇，才能实现从小生产到大生产的惊险一跃，而成为像东印度公司、洛克菲勒那样的支撑一代强国兴起的伟大公司。人类在百年前已经历了从轻工业向重工业的飞跃，如今正在经历从人工服务业（轻服务业）向支撑服务业（重服务业）的飞跃，运营商准备当鲲鹏还是蓬间雀，就在此一举。</p><p>在分享经济条件下做平台，自然涉及一个令运营商百思不得其解的问题，平台分享更像提供公共服务，这是不是意味着要云服务商去做普遍服务呢？其实这完全是误解。分享经济的精髓，是一半免费，一半收费；“拥有”上免费，“使用”上收费。所以叫“不求拥有，但求使用”。按使用收费，又分为两种，一种是不按使用效果收费，这同传统租赁没什么区别；另一种是按使用效果收费，即用户分享使用平台资源后，效果不佳（如不赚钱）则不收费；效果好（如赚钱）则进行分成（如<a href='http://product.enet.com.cn/price/plist3_2289.shtml' target='_blank' class='article'>苹果</a>商城实行三七分成）。在实践中，平台分享比不分享，收益可能相差百倍；更重要的，是通过分享，让行业A P P开发者分散了本来集中于运营商的市场风险。此前许多运营商投入自身“精锐”进入高风险的互联网增值应用，带来一些损失，主要就是没有通过分享经济分散风险造成。云服务商向平台商升级，要经过这次痛苦的转型，后面才是平坦的大道。</p><p>打造云平台，不仅要分享自身资源，还需要向用户提供增值开发工具，使之充分创造多样化增值业务。只有用户全面转向增值服务，平台收获的黄金季节才能到来。</p><p>分享经济下的云服务，如果用一句话概括，可以说就是，分享得越多，收获得越多。</p>
+			<span class="author">责任编辑/冬人</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

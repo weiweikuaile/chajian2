@@ -1,0 +1,190 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="技术必然驱动证券服务走向普惠、多元与理性,本文主要介绍普通,内容, 
+在2014年创业之前，牛股王的创始人鞠盈禧，已先后在和讯、齐鲁证券（现更名为“中泰证券”）做了十多年码农。“我试用过多家股票软件，体验并不好，我觉得占80%份额的散户应该享有更好的服务。”鞠盈禧在很短的时间内就拉起了团队，并为自己的APP起了一个响亮而接地气的名字“牛股王”。">
+<meta name="keywords" content="普通,普通,内容,牛股王,鞠盈禧,证券">
+<meta name="author"  content="普通,普通,内容,牛股王,鞠盈禧,证券">
+<title>技术必然驱动证券服务走向普惠、多元与理性</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20161008574231";atitle='%C2%BC%C2%BC%C3%8A%C3%B5%C2%B1%C3%98%C3%88%C2%BB%C3%87%C3%BD%C2%B6%C2%AF%C3%96%C2%A4%C3%88%C2%AF%C2%B7%C3%BE%C3%8E%C3%B1%C3%97%C3%9F%C3%8F%C3%B2%C3%86%C3%95%C2%BB%C3%9D%C2%A1%C2%A2%C2%B6%C3%A0%C3%94%C2%AA%C3%93%C3%AB%C3%80%C3%AD%C3%90%C3%94';a_date="2016-10-08 16:54";a_author="含光";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="牛股王";
+keys[1]="鞠盈禧";
+keys[2]="证券";
+var siteid="ciweek";
+var surl="";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">技术必然驱动证券服务走向普惠、多元与理性</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-10-08</span>
+            <span class="spauthor">eNet&Ciweek/含光</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>
+在2014年创业之前，牛股王的创始人鞠盈禧，已先后在和讯、齐鲁证券（现更名为“中泰证券”）做了十多年码农。“我试用过多家股票软件，体验并不好，我觉得占80%份额的散户应该享有更好的服务。”鞠盈禧在很短的时间内就拉起了团队，并为自己的APP起了一个响亮而接地气的名字“牛股王”。</p>
+        </div> 
+        <div class="text">
+        	<p><div class='wzpic'><img src='http://images.enet.com.cn/2016/1008/17/9171443.jpg' width='400' height='522' alt='牛股王' title='牛股王' border='1' /><p></p></div></p><p>在2014年创业之前，牛股王的创始人鞠盈禧，已先后在和讯、齐鲁证券（现更名为“中泰证券”）做了十多年码农。“我试用过多家股票<a href='http://www.enet.com.cn/esoftware' target='_blank' class='article'>软件</a>，体验并不好，我觉得占80%份额的散户应该享有更好的服务。”在很短的时间内就拉起了团队，并为自己的APP起了一个响亮而接地气的名字“牛股王”。</p><p>创业之初，牛股王就确定了发展的方向，即以技术推动金融行业变革，“前两年我们致力解决的是用户能立刻感知的事儿，比如简化业务界面和流程，建立A股社区等。从2016年开始，我们找到了更深层次的方向，那就是智能投顾，以fintech的理念，实现金融服务个性化。”</p><p></p><p><b>弯道超车，“社区+工具”成就牛股王</b></p><p>随着国内移动互联网用户的增加及证券行业内部政策放宽，在证券行业浸润多年的鞠盈禧，凭借特有的职业嗅觉敏锐感觉到，风口来了！初生之犊的牛股王凭借“智能工具+社区化”的新颖方式，迅速积累了大量用户，据鞠盈禧介绍，目前牛股王用户已达3000万，2015年流水达千亿级规模。彼时，年轻的牛股王还不满2岁，员工也仅有60人左右。</p><p>“2015年底复盘时，我们觉得能够迅速成长主要是做对了两件事儿，第一是我们提供了一个纯净的社区，给用户一个实现信息交流、专业讨论的空间。第二是我们挖掘了一批A股牛人，而粉丝与牛人间的相互作用又使得牛股王的用户对于平台产生了很高的黏性。”</p><p>凭多年的技术积淀及对于用户需求的敏锐感知，鞠盈禧带领他的团队一路实现弯道超车，按照TalkingData等多家机构的数据显示，2016年牛股王用户活跃度与同花顺、大智慧、东财等老牌应用一道,位列股票交易类应用第一阵营。</p><p>正是结合了web1.0信息传播及web2.0的互动特点，启程的牛股王迅速并成功地打造了“工具+社交”型免费、开放式移动证券理财平台，满足了用户需求，拓宽了证券APP的可能性。</p><p></p><p><b>智能投顾，让小散也能享有更好的服务</b></p><p></p><p>初战告捷，只是牛股王迈出的第一步，2016年持续震荡的行情使得所有股票类APP的日子都不好过，显然这种对于单一市场的依赖有着自身局限性。要让平台业务的发展走得平稳，牛股王做了新的布局，以智能投顾这一利器，来重塑行业格局。</p><p>“Fintech(金融科技)正在重塑现有金融产品和服务，金融行业局面已经开始被打乱,消费金融与支付业务的变革已然开始,消费金融和支付领域先开始了，而保险和资产管理业务的变革也必将产生同样振幅的变革。”鞠盈禧说。</p><p>自2016年开始，牛股王紧锣密鼓地开展了基金、私募孵化、海外资产配置、量化平台等多项业务。从用户角度而言，传统证券体系的服务对象中多以社会金字塔中的高层为主，而中低层人群，往往成为了被此类金融体系所忽略的对象。“我要将智能投顾变成一只魔术手，每一个业务链条与之结合后，都将产生独特的魅力。”</p><p>智能投顾充分发挥了互联网思维和技术的优势，成为了量化投资的新模式，将颠覆以往传统投资，为普通投资者带来简单、智能的投资新方式。</p><p></p><p><b>基金进化论，FOF&amp;组合满足低风险、收益稳定需求</b></p><p></p><p>目前，市面上的公募基金有3000多只，数量比A股股票还多。对于不具备专业投资知识的用户来讲，选择合适自己的基金是相当困难的。随着在线交易用户增多，简单清晰的产品备受青睐，单一的、传统的基金产品开发和营销服务，乃至投资管理的模式都不太契合公募基金发展的新阶段。</p><p>“未来的互联网基金产品一定是开放的、多元的，我们想做一个开放式的基金销售平台，邀请专业的第三方入驻，提供技术支持、运营推广等服务，让优秀的策略组合都在平台上跑起来，为用户带来透明、便捷的投资场景，让不具备专业投资知识的用户也能够找到适合自己的投资产品。”</p><p>据了解牛股王与天弘合作的首个基金组合即将上线。这种组合的模式很好的满足了中国用户所追求的低风险、收益稳定等产品需求。牛股王已紧锣密鼓的对接了近1500只公募基金，基金销售平台“基金牛”也将于近期上线，并将主推FOF及类FOF模式的组合式基金产品。</p><p>线上购买基金信息透明，产品多元，可<a href='http://product.enet.com.cn/price/plist45540_85732.shtml' target='_blank' class='article'>自由</a>选择。基金类产品由于其种类多样，通过搭配组合能够实现更稳健的收益。为用户提供收益更稳健的基金组合产品，牛股王所要做的就是成为一个集成式的理财服务平台。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/1008/33/9171861.jpg' width='600' height='437' alt='牛股王' title='牛股王' border='1' /><p></p></div></p><p><b>开放式量化平台，连接策略与用户</b></p><p></p><p>基金销售平台是用户能够看到的，在看不见的地方，牛股王正在忙着研发“黑科技”Inquant开放式量化平台。“我们给他取了琅琅上口的中文名，盈宽量化策略平台，要以开放的心态链接全球智慧与资本。听上去是不是有点酷？”</p><p>牛股王不仅为B端创造量化策略产品孵化平台，策略系统、实盘交易、海量用户，还为C端创造公募基金、基金组合、FOF、私募基金等产品，真正实现优质资源的对接和整合。</p><p>“牛股王做这件事儿的独特优势在于，我们手握3000W用户，发现了好的策略之后，就可以马上以产品的形式出现在投资者面前，形成策略与用户的闭环。对于开发者而言，这比空谈策略要实际得多。”</p><p>盈宽量化策略平台拥有广泛的数据来源。第一是宏观大数据，如新闻资讯；第二是行业大数据，如来自大电商的各行各业销售数据、公司分析；第三是社交化数据，包括平台每天产生的200多万策略数据及用户之间的互动信息。</p><p>从广泛、完善的大数据中找到关联性，经过云计算后做数据建模，从而设定出某一量化策略，再经过多次数据回测，并回到实盘做验证。最后生成的策略能够对用户进行有效的策略指导。</p><p>在web3.0时代下，大数据、云计算正是完善证券行业的主要科技因素。如何利用互联网来塑造业务模式和产业链，并重构行业边界。而对于新生力量一方的互联网金融来说，则需要思考的是该如何突破证券行业原来业务定式和思维瓶颈。通过技术推动证券行业的服务升级，牛股王正在全力以赴。</p><p></p><p><b>结语</b></p><p></p><p>从社交化A股平台到各类业务链条的发展，从经纪业务到资管业务再到智能投顾平台，牛股王走出了一条不平凡的路，也获得了资本的认可，其一年半内获得包括红杉在内四轮融资的“闪融速度”至今还被资本市场称道。</p><p>鞠盈禧认为，这个公司之所以不断前进，是由于具备一支自带进化模式的团队。强大的学习能力使得团队中的每一个人能够积极思考并保持开放，面对未知与不确定，永远保持乐观的心态。而说到行业时，鞠盈禧认为，相比传统行业的内部创新，当创业团队内心足够坚定、目标足够明确时，必然走得更快。</p><p>牛股王团队的心中有一座灯塔，凭着低调的倔强，敢想敢做，就必能到达。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/1008/49/9172133.jpg' width='600' height='399' alt='牛股王' title='牛股王' border='1' /><p></p></div></p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

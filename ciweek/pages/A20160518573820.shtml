@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="Docker遇上Mesos，轻量级PaaS的最佳演绎,本文主要介绍,内容, 技术是数人云最根本的优势，数人云是国内较早将Mesos应用于企业生产环境的创业公司，创始团队来自谷歌、红帽和惠普，公司长期维护了近千台服务器规模的Mesos集群。">
+<meta name="keywords" content=",,内容,数人云,云计算,企业服务">
+<meta name="author"  content=",,内容,数人云,云计算,企业服务">
+<title>Docker遇上Mesos，轻量级PaaS的最佳演绎</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20160518573820";atitle='Docker%D3%F6%C9%CFMesos%A3%AC%C7%E1%C1%BF%BC%B6PaaS%B5%C4%D7%EE%BC%D1%D1%DD%D2%EF';a_date="2016-05-18 17:42";a_author="飞扬";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="数人云";
+keys[1]="云计算";
+keys[2]="企业服务";
+var siteid="ciweek";
+var surl="http://www.enet.com.cn/";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">Docker遇上Mesos，轻量级PaaS的最佳演绎</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-05-18</span>
+            <span class="spauthor">eNet&Ciweek/飞扬</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>技术是数人云最根本的优势，数人云是国内较早将Mesos应用于企业生产环境的创业公司，创始团队来自谷歌、红帽和惠普，公司长期维护了近千台服务器规模的Mesos集群。</p>
+        </div> 
+        <div class="text">
+        	<p>在“互联网+”的催化下，企业级市场正迸发出惊人的活力，尤其在互联网消费级市场日趋饱和的今天，企业级市场凭借巨大的发展空间、稳健的投资回报等，正在成为资本市场的新宠。</p><p></p><p><b>企业级服务的黄金时代已经来临</b></p><p></p><p>目前云计算的部署已经覆盖所有行业，企业对于云计算的接受度、信任度，相比于前几年已经有明显的增长。</p><p></p><p>云计算提供的本质应当是服务。按照云平台提供的服务种类，可以划分出云平台的三层架构，即：Infrastructure as a Service（IaaS，基础设施即服务），Platform as a Service（PaaS，平台即服务）以及 Software as a Service （<a href='http://www.enet.com.cn/esoftware/' target='_blank' class='article'>SaaS</a>，<a href='http://www.enet.com.cn/esoftware' target='_blank' class='article'>软件</a>即服务）。</p><p></p><p>有个形象的比喻，道路被比作IaaS基础设施，因为就其本身而言，单独的IaaS毫无作用，它只能为上一层的资源提供帮助来发挥其生产力，就好比道路的存在是为了汽车和卡车来运送乘客与货物一样。而汽车和卡车是坐落在基础设施之上的工具（PaaS），运送的货物和人员则可被比作软件和信息（SaaS）。</p><p></p><p>高级分析师Jay Lyman在一篇题为《PaaS是否将成为IaaS的一个功能？》的报告中指出了云计算行业内滋生的一个理论，即PaaS市场（提供基于云的应用程序开发环境）将整合到其他两个主要云模型中，即IaaS和SaaS中。毕竟，PaaS既不如IaaS那样灵活而<a href='http://product.enet.com.cn/price/plist100_85732.shtml' target='_blank' class='article'>自由</a>，又不如SaaS那样可以直接推向消费者。</p><p></p><p>纵览云计算市场，部分IaaS和SaaS供应商已推出了类似PaaS的功能，让客户能够在其服务上构建应用程序。SaaS企业，如Salesforce.com已为用户提供了Force.com，让用户基于企业云中已有的数据建立自定义应用程序。IaaS供应商，如VMware、CenturyLink和Verizon都已经部署了PaaS技术，使客户可以构建应用程序，然后将它们托管在其IaaS云中。</p><p></p><p>随着IaaS、PaaS、SaaS之间界限的日益模糊化，处于尴尬境地的PaaS企业，真的会消亡，成为IaaS或PaaS的一个功能吗？数人云CEO王璞认为不尽其然，当下正值PaaS市场爆发的初期，未来两年该市场将迎来全面爆发。他颇有信心地坦露：由Docker引爆的PaaS领域将成为主流，并极有可能出现引领IT技术风潮的新一代巨头，而数人云的愿景就是要成为下一代PaaS的领导者。</p><p></p><p><b>企业级云计算被激活，Docker引爆轻量级PaaS</b></p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0518/75/5649440.jpg' width='500' height='750' alt='1' title='1' border='1' /><p></p></div></p><p>王璞介绍，自2013年以来，Docker的轻量化、快速和可移植性使其在云计算领域广受关注，短短几年间，Docker生态系统迅猛发展，云计算领域的传统巨头和互联网巨头都在Docker方面进行了生产实践，而Docker与PaaS平台可谓是完美融合。围绕Docker而延伸的服务公司也如雨后春笋般出现。数人云就是这样一家公司。</p><p></p><p><b>Docker遇上Mesos，正如北京遇上西雅图，天造地设的一对</b></p><p></p><p>据王璞介绍，2015年团队开始把Mesos与Docker相结合，为企业提供分布式技术为基础的云操作系统。那又为何是Mesos呢？Mesos技术的可拓展性非常强，支撑了各种各样的分布式平台应用，比如说大数据应用。用Mesos和Docker来打造数人云操作系统，就兼具了可移植性和可扩展性，这两个特性为云操作系统带来了轻量级的特性，而轻量级特性带来的就是应用的弹性。</p><p></p><p><b>创业就是不断试错，最谨慎的方式就是放胆一试</b></p><p></p><p>在互联网创业大潮中，每天都有无数创意诞生，“试了就有百分之五十的机会成功，不试只有百分之零。”唯有不断创新与“试错”，找到“痛点”，才能对瞬息万变的市场有更清晰的认识，才能更加明确企业未来的方向。</p><p></p><p>无论是马云、李彦宏还是周鸿，这些互联网行业的成功者，都在进行创业布道时把“快速试错”奉为成功圭臬。然而互联网巨头拥有雄厚的资本和流血能力，允许其在前行过程中不断进行快速试错，通过经验的累积，为产品方向和团队的调整做好准备。</p><p></p><p>数人云做现在这个产品方向也经历了一段摸索过程。据王璞回忆：他起初在Google从事的是大数据分布式计算技术。所以回国后自己创业一开始是想做大数据方向的，当时大数据概念很火，再加上当时互联网金融也很火，他周围很多同学朋友都在做P2P，所以当时兴致勃勃想从这个点切入，为互联网金融企业做大数据处理，做风控，用户画像等。但一段时间之后他发现这个点并不好切入,因为互联网金融行业还很新，他们的数据还远远称不上大数据，没有数据积累，根本支撑不了大数据应用场景。</p><p></p><p>所以，王璞决定带领团队转变方向做云计算，与大数据相比，王璞认为，云计算更多是技术驱动，大数据是业务驱动。一群志趣相投的人，做正确的事情，还需要选在对的时间点上，从去年开始，容器这个概念开始流行，Mesos与Docker也可以非常好地结合，现在大家对容器的接受度也日渐增强。很多企业开始提出对容器的需求，这就涉及到容器的管理，所以数人云推出了数人云操作系统这款产品。</p><p></p><p><b>绝不做跟随者，要做就做下一代PaaS的领导者</b></p><p></p><p>王璞之前曾在Google担任广告部数据平台构架师一职，谷歌对于云技术发展趋势的理念，让他心生涟漪，他想把Google领先的云计算技术理念带到国内，为国内的企业提供服务。这也为如今数人云的产品和市场定位打下了深深的烙印。王璞指出：谷歌内部的PaaS平台弹性、灵活，开发组件一应俱全，工程师使用起来非常方便。数人云希望将谷歌的云理念带给国内客户，让企业的开发人员专注于业务层面，让数人云的轻量级PaaS平台帮助企业解决在上云中的最后一公里问题。</p><p></p><p>“我们想做到为企业提供标准化的云计算服务，标准化的产品，我们的愿景就是要成为下一代PaaS的领导者。”这是王璞的豪言壮语。</p><p></p><p>技术是数人云最根本的优势，数人云是国内较早将Mesos应用于企业生产环境的创业公司，创始团队来自谷歌、红帽和<a href='http://product.enet.com.cn/price/plist3_2283.shtml' target='_blank' class='article'>惠普</a>，公司长期维护了近千台<a href='http://product.enet.com.cn/price/plist70.shtml' target='_blank' class='article'>服务器</a>规模的Mesos集群。</p><p></p><p>当然有了过硬的技术，强悍的团队，还要有专注的产品，才能做到极致。在与王璞近两个小时的交流中，他一直将用户需求作为轴心，其他一切都围绕于此旋转。踏实做人，低调做事，这是王璞所流露出的真性情。相较于那些“高端、大气、上档次”的产品技术，数人云则选择了“低调、奢华、有内涵”的路子。</p><p></p><p><b>比拿来更重要的就是奉献</b></p><p></p><p>如今，开源技术已成为推动云计算发展的一股非常重要的力量，而在当今的开源组织当中，也有越来越多的企业加入到其中来贡献技术、贡献代码等等，从而推动了整个云计算产业的飞速发展。</p><p></p><p>开源正引领着技术研发的方向。它已成为新创企业吸引注意力的最佳选择，而作为客户(主要是企业中的开发人员)则会采用这些新的技术进行研发，提供反馈，并最终将新技术纳入生产流程。同时，其他开发人员也会看到这些热点，并开始围绕一个核心项目构建生态系统，Docker、Hadoop、OpenStack等开源项目就是如此发展起来的。</p><p></p><p>很多流行的开源软件，都有专门的公司提供商业支持，比如OpenStack、Hadoop等等。</p><p></p><p>数人云致力于为企业客户提供Mesos相关的产品和技术服务，也是看到了国内企业对于云计算技术的需求日益旺盛，随着公有云、私有云和大数据技术应用更加广泛，国内企业对PaaS方面的需求会越来越多。</p><p></p><p>当然，单靠数人云一家的力量不足以推动Mesos技术的成熟。因此，数人云选择和国内多家云计算厂商、系统集成商合作，给企业客户提供基于Mesos的产品和服务。“我们希望和更多合作伙伴一起，打造基于Mesos技术的生态，随着Mesos技术在国内的影响力越来越大，国内会有更多企业采用Mesos技术相关产品和服务。Mesos相关技术产品和服务一旦形成像OpenStack和Hadoop一样的生态体系，那企业客户在后续服务和支持方面就有更多选择了。”</p><p></p><p>另外，数人云也积极回馈Mesos社区，所有对Mesos的修改都提交给Mesos社区，不会单独维护一套私有Mesos版本。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0518/63/5649899.jpg' width='500' height='500' alt='2' title='2' border='1' /><p></p></div></p><p><b>夹缝中迸发的新生力量 势不可挡</b></p><p></p><p>数人云虽然成立时间并不算长，但是收到的成效却是惊人的，短短2年时间，已经从一家为客户项目提供支持的服务型公司变成了一家具有成熟产品的新生代云公司。除了过硬的技术，核心价值与信念的坚持也是他们快速赶超的动力，一个人是加法效应，一个团队就是乘法效应，当大家目标契合，价值观高度一致，那么没有什么不能。</p><p></p><p>或许下一个BAT就会出现在企业级服务领域中。只要真正有内功且做得好、出手快的创业团队定会受到投资人的青睐，这也是一个大浪淘沙，将优秀创业项目沉淀出来的过程。</p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

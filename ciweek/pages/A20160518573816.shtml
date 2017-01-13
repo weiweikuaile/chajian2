@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="新互联网时代的安全方法论,本文主要介绍,内容, 与消费市场不同，谈到企业服务特别是安全领域的企业服务时，商业模式变化的价值约等于零。那么究竟如何构建企业级网络安全服务体系？刘刚分享了火绒安全的企业服务方法论。">
+<meta name="keywords" content=",,内容,火绒,网络安全,杀毒">
+<meta name="author"  content=",,内容,火绒,网络安全,杀毒">
+<title>新互联网时代的安全方法论</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20160518573816";atitle='%D0%C2%BB%A5%C1%AA%CD%F8%CA%B1%B4%FA%B5%C4%B0%B2%C8%AB%B7%BD%B7%A8%C2%DB';a_date="2016-05-18 17:01";a_author="千雨";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="火绒";
+keys[1]="网络安全";
+keys[2]="杀毒";
+var siteid="ciweek";
+var surl="http://www.enet.com.cn/";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">新互联网时代的安全方法论</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-05-18</span>
+            <span class="spauthor">eNet&Ciweek/千雨</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>与消费市场不同，谈到企业服务特别是安全领域的企业服务时，商业模式变化的价值约等于零。那么究竟如何构建企业级网络安全服务体系？刘刚分享了火绒安全的企业服务方法论。</p>
+        </div> 
+        <div class="text">
+        	<p>过去几年，PC端<a href='http://www.enet.com.cn/networks/' target='_blank' class='article'>网络</a>安全产品层出不穷，但多数奉行“拿来主义”，一些关键技术（如杀毒引擎）来自国外。不过，正如大家所看到的，这些产品“免费”的商业模式大受个人用户欢迎，并最终引发了国内PC安全市场洗牌。</p><p></p><p>面对市场环境的变化，传统安全厂商采取跟随策略，一些厂商亦步亦趋，将重心倾向推广和营销，另一些企业则独辟蹊径，转身进入企业级市场。因此，当今天互联网行业掀起从消费级服务（2C）向企业级服务（2B）延伸的大潮时，安全厂商早已立于潮头。相比之下，火绒安全表现得像一个慢公司——在上个月才吹响进军企业级市场的号角。</p><p></p><p>寥寥数次媒体露出，让火绒安全在公众印象中同“专注”、“纯粹”建立起关联。在“免费”商业模式占据主流的个人安全领域，“纯粹”是一些人的“奢侈品”；但对企业而言，安全服务必须来得“纯粹”一些。火绒安全的“慢”，或许跟他们对专注、纯粹的追求有关。与之对立的是略显浮躁的拿来主义，以及投机者曲解的“风口论”，这是大多数技术人嗤之以鼻的思维。</p><p></p><p>也许有人会说，不“快”就会错失机会，事实上这是使命感的错位。技术人的使命是用技术推动人类进步，奉行的是专业与专注。火绒安全创始人刘刚过去对媒体所说的“一个技术团队的梦想不在于商业化的巨大，更在于安全价值观的传播”，或可以代表这些人的心声。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0518/62/5623991.jpg' width='500' height='332' alt='1' title='1' border='1' /><p></p></div></p><p>与消费市场不同，谈到企业服务特别是安全领域的企业服务时，商业模式变化的价值约等于零。那么究竟如何构建企业级网络安全服务体系？刘刚分享了火绒安全的企业服务方法论。</p><p></p><p><b>专注做好安全防护是前提</b></p><p></p><p>互联网生态的快速构建，使泛互联网平台的行业都加快了其发展速度，专业性极强网络安全领域也不例外。但现状却不尽如人意，以PC安全为例：一方面，安全形势愈加严峻，过去单纯以破坏PC系统的为主的威胁，被更加隐蔽、更具目的性的钓鱼、勒索、木马等新兴威胁替代；而另一面，免费的安全产品普遍陷入了“营销竞争”的怪圈，一是产品附加了很多与安全无关的功能，使体积变得臃肿，二是各种<a href='http://www.enet.com.cn/esoftware' target='_blank' class='article'>软件</a>捆绑和弹窗使安全软件成为商业的“孵化器”，这个基于安全软件构建的“生态”导致用户体验极差。</p><p></p><p>生态是做加法，专注是做减法，而决定最后选择的是这个企业的使命。在当下的PC端安全市场，只有以安全为使命的厂商才能“术业有专攻”，才能获得好的用户口碑。据了解，火绒安全的用户基本定位于中高端对技术有所追求和了解的用户，这类用户对产品的专业性要求更高，这一结果也是由“专注”所决定的。</p><p></p><p>在刘刚看来，专注不仅是火绒安全软件未来发展的核心精神，更是把网络安全服务从2C向2B转型的金钥匙。也正是出于对专注的执念，火绒安全对资本的态度非常慎重。众所周知，技术研发离不开经费支持，多数技术类公司的发展也需要通过融资来推动。但融资是把双刃剑，很多时候逃不脱被大型互联网公司左右的命运——被收购后偏离初心，这对于想把控自己命脉的技术类创业者来说是致命的，自主发展成为这些公司的渴求。</p><p></p><p>在融资这件事上，刘刚阐述道：“不少投资机构找过我们，但我们比较慎重，更在乎我们自己的公司。我们不喜欢被左右，不想为了融资忘了自己真正想做的事。一家公司如果没有灵魂，只是为了挣钱或者其他利益，不仅没有凝聚力，也做不好自己真正想做的，公司发展还是需要一些内在的精神层面上的东西。”</p><p></p><p>互联网时代，技术和资本都是企业的竞争力，而只有对技术有强大自信的人，才会对资本说“No”。这或许正是“专注”的价值。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0518/21/5624227.jpg' width='500' height='333' alt='2' title='2' border='1' /><p></p></div></p><p><b>实时倾听用户反馈尤为重要</b></p><p></p><p>在市场营销的理念中，一款产品是否成功，取决于消费者的需求程度。需求量的高低从某种意义上来说，就是用户对产品的认可度。但当下很多公司往往只注重产品刚进入市场时带给用户的第一感官，而忽略了长时间的用户体验，只一味追求自己对产品的理解而不重视用户反馈，殊不知“水能载舟亦能覆舟”的道理。对于用户体验这点，刘刚也表示很多用户为他们产品的发展提出了很多宝贵意见，例如软件安装拦截功能就是在用户的建议下加入的。</p><p></p><p>国内的互联网生态一个显而易见的疑难问题就是软件捆绑，但这不是病毒和木马，甚至一些所谓的正常软件也利用这种渠道进行营销和推广。事实上这些捆绑安装给国内的无数网民都造成了一定困扰，正是用户的心声传达给了火绒安全的研发团队才使产品有了针对性功能的出现。刘刚说：“原来我们更接近杀毒公司，并没有去考虑这方面的东西。但是跟用户做交流的时候，我们就慢慢转变了这种思想，我们不但做传统的杀病毒，我们还做终端的安全防御，你这台<a href='http://product.enet.com.cn/price/plist4.shtml' target='_blank' class='article'>电脑</a>的终端，我帮你做整个终端的防御，帮你抵御流氓绑改首页，帮你抵御流氓的捆绑，做这些东西，这些方面我们也延伸出来。”一款好的产品如果更好向着正确轨迹运转，离不开悉心倾听用户的声音。</p><p></p><p>相比个人用户，企业用户的个性化需求更多，因此用户反馈对于企业级产品的升级和服务有着更重要地位。企业内部的网络体系，需要更全面且针对性更强的安全防护策略。对于不同体系，安全防护也将显得更有针对性。好比医生的“询问病症”，问清症状，对症下药，了解用户最直接的需求才能把产品打造得更优秀。</p><p></p><p><b>精准把握产品定位，技术才是核心</b></p><p></p><p>同样在市场营销的概念中，任何产品的发展都离不开一个清晰的定位。安全软件到底是什么？在刘刚看来，个人用户需要的是PC中的“保镖和医生”；而企业用户需要的则是整个操作系统中的“管家”类角色。“平日里潜藏在后台对整个操作体系中的每台<a href='http://product.enet.com.cn/price/plist3.shtml' target='_blank' class='article'>计算机</a>进行监管，在木马病毒干扰日常操作，侵蚀系统的时候进行防护和查杀。而不是动不动就弹窗，甚至还会弹出电商类广告网页。互联网的渠道让任何产品都有了平行发展的空间，但只有更垂直的功能才最能解决用户的痛处。”</p><p></p><p>网络安全服务对技术要求很强，好的终端防御体系可以更快的帮助用户解决动态问题，好的引擎在应对新的危险的时候，响应时间很短，能处理的范围很广。但杀毒引擎技术不是一蹴而就的，不可能一经推出的新技术就能立即“药到病除”，任何技术都需要优化阶段，这需要技术研发人员长久以来的付出。刘刚告诉我们这样一个例子：“有一阵子国内一种勒索敲诈软件大肆泛滥，国内很多依赖云查杀的软件查杀率不尽人意，因为病毒针对云查杀进行了变化，混淆了病毒本体。而我们的产品引擎着重加强抗混淆能力，利用独立虚拟机技术，几十个样本一经识别立即查杀。”</p><p></p><p>火绒安全几年来一直专注于2C领域，在企业级服务领域也有过一些OEM开发案例，那么，对待企业用户可以完全照搬2C的思维么？对此刘刚解释道：“开辟安全产品的2B市场，一定要在2C市场有一席之地。他们的底层技术是相通的，2C上面临的很多问题，在2B市场里面同样会遇到。但是2B的市场的特点跟2C不太一样，2C是做一款产品，可以在互联网上扩散，然后拥有用户解决问题；而2B的话，不但要注重技术，还要很注重服务，企业真正有问题了，用产品解决这些问题，并且还要提供相应的安全服务支持。”</p><p></p><p><b>结语</b></p><p></p><p>互联网时代带给了我们更多概念化的东西，却忽略了服务的本质。更快的渠道给了我们更好的推广策略和营销模式，却轻视了垂直产品的价值。对于企业级网络安全服务的构建，则更需要那些锲而不舍的技术型公司，正是他们用专注和执着为我们塑造了安全纯净的未来。</p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

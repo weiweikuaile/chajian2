@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="场景就是生活，热爱生活的人，才能以非凡创造生活,本文主要介绍,内容, 大数据的确很神奇，它能为你推荐你喜欢的歌曲，展示你想看到的广告，帮助银行发现心怀不轨的贷款申请人……但神奇的并不是大数据本身，而是各种场景下大数据技术的应用。">
+<meta name="keywords" content=",,内容,金融雷达,独角兽,集奥">
+<meta name="author"  content=",,内容,金融雷达,独角兽,集奥">
+<title>场景就是生活，热爱生活的人，才能以非凡创造生活</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20160505573724";atitle='%B3%A1%BE%B0%BE%CD%CA%C7%C9%FA%BB%EE%A3%AC%C8%C8%B0%AE%C9%FA%BB%EE%B5%C4%C8%CB%A3%AC%B2%C5%C4%DC%D2%D4%B7%C7%B7%B2%B4%B4%D4%EC%C9%FA%BB%EE';a_date="2016-05-05 19:26";a_author="质素";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="金融雷达";
+keys[1]="独角兽";
+keys[2]="集奥";
+var siteid="ciweek";
+var surl="http://www.enet.com.cn/";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">场景就是生活，热爱生活的人，才能以非凡创造生活</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-05-05</span>
+            <span class="spauthor">eNet&Ciweek/质素</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>大数据的确很神奇，它能为你推荐你喜欢的歌曲，展示你想看到的广告，帮助银行发现心怀不轨的贷款申请人……但神奇的并不是大数据本身，而是各种场景下大数据技术的应用。</p>
+        </div> 
+        <div class="text">
+        	<p><b>在一项技术落地之前，往往都是概念和口号先行</b></p><p></p><p>“大数据的时代已经到来”、“未来的企业都将是数据驱动的企业”、“大数据将改变世界”、“下一个独角兽企业将在大数据行业产生”……太多的粉饰和泡沫让大数据成为了热门的商业术语、融资标签，以至于看到这些话，人们都会稍作怀疑：大数据真地有这么神奇吗？大数据的确很神奇，它能为你推荐你喜欢的歌曲，展示你想看到的广告，帮助银行发现心怀不轨的贷款申请人……但神奇的并不是大数据本身，而是各种场景下大数据技术的应用。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0505/13/4479457.jpg' width='500' height='333' alt='12' title='12' border='1' /><p></p></div></p><p><b>就行业而言，大数据技术+场景是未来</b></p><p></p><p>说到大数据行业的独角兽，我们首先能想到的是美国大数据公司Palantir。自2004 年成立以来，Palantir经历8 轮融资融到共计超过10亿美元，2014年收入达到10亿美元，估值接近200亿美元，PS达到约20倍，成为继Uber、小米、Airbnb之后，成为全球估值第四高的创业公司。Palantir 以做情报分析起家，主要的服务对象是政府和金融机构，同时业务还涉及医疗、零售、生物科技、自然灾害救援、<a href='http://www.enet.com.cn/networks/' target='_blank' class='article'>网络</a>安全等多个领域。</p><p></p><p>Palantir从一开始就想做一个分析一切数据，为企业、银行等机构提供服务的公司。但当时的大数据投资环境还不够成熟，Palantir既没有得到商业投资，也没能打开市场。随后Palantir转向CIA创办的非盈利投资机构In-Q-Tel，利用6年时间专注情报分析，凭借成功案例和政府客户影响力，在大数据领域树立名望，继而拓展业务到需求最迫切、定价较高的金融领域，完成估值的飞跃，进而向其他各领域拓展业务。</p><p></p><p>反观国内，很多公司都标榜自己为大数据公司，但实际上都是流量驱动，仅产生数据和采集数据，而不是利用大数据去解决问题。我们看到，Palantir也并不是以数据量取胜，而是用大数据技术进行反恐、国防、反欺诈、保险分析等。</p><p></p><p>对于国内大数据市场现状，第三方数据整合和场景化应用平台GEO集奥聚合金融事业部总经理吴海斌是这样认为的，“想要在大数据行业成为独角兽，仅靠数据量是不够的，应该在丰富和新鲜的数据库基础之上，靠技术、靠场景，通过技术去分析、利用大数据去解决问题，才能将大数据真正的价值体现出来，使大数据更有意义。”</p><p></p><p><b>以金融领域为切入点，应该是个正确的选择</b></p><p></p><p>随着互联网不断发展并渗入各个行业，社会形态及组合方式发生了巨大的变化，互联网金融也应运而生，但在互联网为金融行业带来很多便捷、高效的同时，也暴露出很多精准度和安全上的不完善。由于金融行业有着天然的数据属性，因此有着许<a href='http://product.enet.com.cn/price/plist70_121997.shtml' target='_blank' class='article'>多能</a>够将大数据真正落地的业务场景，如客户画像、精准营销、风险管控和运营优化等。可以说大数据技术的加入让互联网金融的整个生态更加完善，让金融服务更加有效和普惠。</p><p></p><p>金融机构本身拥有的第一方数据，虽然体量较为庞大，沉淀深厚，但这样的用户数据是不连续、不完整、不“新鲜”的。而互联网金融的营销、风控需要的是用户连贯、多维度、即时的行为数据，因此大数据服务公司的存在就显得十分必要。</p><p></p><p>GEO集奥聚合目前将自己定位为第三方数据整合和场景化应用平台，也就是将种种不同来源的数据进行交叉、融合、打通，能够将金融机构的第一方数据与第三方丰富的、多维度的数据交叉分析，从而精确把握用户群体和个体网络行为模式，发现用户、了解用户，实现定制化，精确而智能地为用户提供服务。</p><p></p><p>数据整合能力就是技术的体现，场景化就是将大数据真正落地。金融服务的很多场景都能够将大数据落地，如在信用卡的获客上，大数据的丰富性可以描绘更精确的用户画像，让银行发现更多高价值用户；在风控上，帮助银行筛选客户，避免损失……</p><p></p><p>在技术方面，建模能力尤其重要。吴海斌为我们讲述了一个案例：在某车险的推广过程中，采用机器学习模型迭代营销的方式，从建模到回馈，再修改模型，随着模型迭代，转化率从最初的1%提高到了4%。最终达到洞察目标客户，促进产品销售。</p><p></p><p>目前，集奥聚合积极布局大数据产业，专注于金融风控、精准营销、个人信用服务，全面构建大数据生态体系。依靠海量互联网、社交数据优势以及先进的大数据智能分析技术，逐步推出了金融雷达、风控评分以及反欺诈平台等大数据产品，全面覆盖银行、信用卡、保险、小贷、消费金融等传统金融机构，以及P2P、网络信贷等互联网金融创新领域，不断在金融行业发现更多的场景，挖掘大数据真正的价值和意义。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0505/53/4479805.jpg' width='500' height='507' alt='66' title='66' border='1' /><p></p></div></p><p><b>将大数据的意义延展到更多领域</b></p><p></p><p>如今，虽然国内大数据落地应用于场景还处在初级阶段，但对于金融行业来说，大数据的应用已经开始为金融机构创造了最直接的价值。从金融行业切入，大数据的意义和能力能够拓展到更多的行业和更多的场景。</p><p></p><p>以集奥聚合为例，虽然目前金融占其80%左右的业务量，但吴海斌表示，“2016年集奥聚合会在金融大数据领域继续深挖，与此同时，也会开始慢慢切入其他产业，包括房产、汽车、旅游。未来还会切入更多行业，将数据价值体现在各个不同的场景、行业之中。”</p><p></p><p><b>如何成功，三点启示</b></p><p></p><p>2015年，集奥聚合作为唯一一家大数据企业跻身2015年中关村独角兽企业榜单，该榜单从技术创新、品牌影响力、行业应用等维度对中国拥有核心技术的创新企业进行评估。虽然不及Uber、Airbnb、 Palantir、Snapchat等巨型独角兽，但这些国内外的企业获得称号和认可，都有着共同的原因，究其根本，就是创新。无论是商业模式的创新、技术的创新，还是理念的创新……独角兽企业都是找到了不一样的、被需要的那些东西，并发扬光大，将其价值最终体现在“人”的身上。</p><p></p><p>如何能够成为下一个全国级、世界级的企业？对于集奥聚合的现在和更好的未来，吴海斌认为，如果要成为下一个独角兽，有三点很重要：方向、团队和场景。</p><p></p><p>对自身的精准定位一直是一家企业走向卓越的关键。集奥聚合于2011年成立以来，一直专注于互联网金融、营销、汽车等行业的大数据服务，并随着大数据的落地、大数据行业的蓬勃而开始加速发展。</p><p></p><p>对于创新企业来说，团队的组成要在“不变”中“微调”。毫无疑问，对于大数据服务公司来说，优秀的大数据人才是公司的脊椎和肌肉所在，这是“不变”。但随着业务的拓展，更需要越来越多其他行业的新血液，以求以更专业的行业眼光去发现更多场景。</p><p></p><p>没有场景，大数据是没法落地的。因此就需要去挖掘更多的行业、发现更多的创新场景，解决更多的问题。相信随着大数据相关技术，如机器学习、数据深度挖掘技术的不断发展，更新的技术将极大地加深和加宽场景化的应用能力，催生出新的应用场景，带来更简便的流程和更符合用户需求的产品。</p><p></p><p><b>结语</b></p><p></p><p>场景就是生活，十分热爱生活的人才可以非凡创造生活。不信吗，如果你不相信历史，你可以看未来。</p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

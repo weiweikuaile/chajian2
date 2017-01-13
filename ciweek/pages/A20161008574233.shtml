@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="志在巅峰的勇者，无畏亦无惑,本文主要介绍普通,内容, 互联网自诞生以来持续保持着快速发展，在基本解决了人与人的信息互联后，产业互联、物联网等新的应用和方向也在快速推进，而这些新领域对于数据计算、交互和传输需求，将对现有的互联网的计算及传输带来更大的挑战。仅现有的集中式与计算网络，如何来满足物联网发展所带来的万物互联的高频连接需求，就需要对现有网络体系进行改进，比如通过边缘计算网络部署的方式来解决这一问题。">
+<meta name="keywords" content="普通,普通,内容,网宿科技,李东,CDN">
+<meta name="author"  content="普通,普通,内容,网宿科技,李东,CDN">
+<title>志在巅峰的勇者，无畏亦无惑</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20161008574233";atitle='%C3%96%C2%BE%C3%94%C3%9A%C3%A1%C3%9B%C2%B7%C3%A5%C2%B5%C3%84%C3%93%C3%82%C3%95%C3%9F%C2%A3%C2%AC%C3%8E%C3%9E%C3%8E%C2%B7%C3%92%C3%A0%C3%8E%C3%9E%C2%BB%C3%B3';a_date="2016-10-08 17:10";a_author="平南";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="网宿科技";
+keys[1]="李东";
+keys[2]="CDN";
+var siteid="ciweek";
+var surl="";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">志在巅峰的勇者，无畏亦无惑</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-10-08</span>
+            <span class="spauthor">eNet&Ciweek/平南</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>互联网自诞生以来持续保持着快速发展，在基本解决了人与人的信息互联后，产业互联、物联网等新的应用和方向也在快速推进，而这些新领域对于数据计算、交互和传输需求，将对现有的互联网的计算及传输带来更大的挑战。仅现有的集中式与计算网络，如何来满足物联网发展所带来的万物互联的高频连接需求，就需要对现有网络体系进行改进，比如通过边缘计算网络部署的方式来解决这一问题。</p>
+        </div> 
+        <div class="text">
+        	<p><div class='wzpic'><img src='http://images.enet.com.cn/2016/1008/17/9181272.jpg' width='600' height='399' alt='网宿科技' title='网宿科技' border='1' /><p></p></div></p><p><b>生命不息，创新不止</b></p><p></p><p>互联网自诞生以来持续保持着快速发展，在基本解决了人与人的信息互联后，产业互联、物联网等新的应用和方向也在快速推进，而这些新领域对于数据计算、交互和传输需求，将对现有的互联网的计算及传输带来更大的挑战。仅现有的集中式与计算<a href='http://www.enet.com.cn/networks/' target='_blank' class='article'>网络</a>，如何来满足物联网发展所带来的万物互联的高频连接需求，就需要对现有网络体系进行改进，比如通过边缘计算网络部署的方式来解决这一问题。</p><p>目前对于企业，云计算的价值在节约成本、弹性、按需和简化IT等方面。而随着万物上云，云计算的价值需要从更深层面去挖掘，才能够在将来为每个用户带来更丰富的云端内容，创造更新的联网体验，并且不断的优化用户的网络连接体验，这正是云计算的真正价值所在。从CDN到云计算，网宿科技都在把握着极佳的市场切入时间点，而这也是其一直以来的制胜法宝。</p><p>在云端进行数据的处理和传输，实际上远比我们想象的更为复杂和困难，设备与设备之间交互的频率和速度远超人机交互。随着物联网和移动互联网的高速发展，人们对云计算的依赖会越来越高，数据量和数据节点数将不断增加，不仅将占用大量网络带宽，而且也会加重数据中心的负担，最终的结果就是数据传输和信息交互将变得越来越困难。</p><p>如何让目前第一阶段实现企业普及上云而形成的集中式云计算布局，来适应物联网时代下设备之间高频次的交互需求，网宿科技所给出的方案也许值得参考，其提出的搭建内容计算网路，将布局万物互联的未来，满足未来物联网的高频数据计算、传输及处理需求，让云计算的价值得到更深层的挖掘。</p><p>目前网宿科技正在通过骨干网计算中心+CDN+边缘计算网络的方式构架一张庞大的内容计算网络。而构建这一巨幅构架的想法始于网宿科技“要成为全球一流云计算服务商”的愿景。</p><p>网宿科技着眼于应对未来激增的计算与连接需求，在前人的基础上不断创新，这很有可能会成为其未来成功的必要条件之一。</p><p></p><p><b>十年锻造核心竞争力</b></p><p></p><p>互联网把云计算带入人们的生活，一个成功的云计算企业不会“一枝独秀”，而会“多点开花”。像最近风头正盛的亚马逊在9月22日突破800美元大关后，在九月中旬最终收于805.75美元，创下亚马逊股价新高。值得注意的是，其中“云”市场也给亚马逊的发展增加了广阔的前景。无独有偶，北京国双科技有限公司上周也登陆纳斯达克，成为大数据云计算领域中概股赴美的第一股。另外，阿里云作为我国云计算产业的代表，营收从去年二季度开始一直保持三位数增长，2016财年年度增幅更是达到138%，成为阿里巴巴新增长极。可见，全球云计算产业正进入快速发展阶段。</p><p>如何树立自己的竞争优势是网宿科技所要决断的关键问题，网宿科技2005年起开始做CDN，并在2010年，看到云计算的趋势，开始进行CDN平台的云化升级，2014年组建云安全团队，启动云安全产品研发。在过去十余年，网宿科技能够在CDN行业取得领先，得益于技术研发的优势和服务运维体系的建立，其所积淀下来的服务精神是一笔财富，当前就是要致力于把这种运维体系和丰富的服务经验继续传承、深耕和发扬。</p><p>云计算市场才刚刚开启，这给了意欲在云产业中有所作为的企业以足够多的机会，网宿科技在中大型企业客户方面的服务经验，以及CDN平台庞大的资源优势，为其在云市场的发展赢得了先机。同时，在技术研发上的积累，也让网宿从CDN到云成为顺势而为之选。“我们一直在观察，不代表我们没有做准备。网宿从2010年起就开始用云的方式，给一些云上的公司提供CDN服务，在找到合适的市场切入点前，我们一直在做技术上的储备。” 网宿科技助理总裁、云计算事业部总经理李东在采访中表示。目前，产品和运维工程师占到网宿科技总员工数的三分之二，强大技术团队与自主研发能力是网宿认为其所构建的竞争壁垒之一。</p><p>梦想+专注，再付诸行动，这是梦想者的轨迹。只谈情怀，至多可以写成一首抒情诗，但带着情怀踏上征途，却可以书写传奇。而这种积极进取、不畏惧于新的尝试、勇于争做第一的精神，正是所有企业应当学习和揣摩的。</p><p></p><p><b>心有多大，舞台就有多大</b></p><p></p><p>“心有多大，舞台就有多大”，纵观历史，成功者无不心存高远。大格局者站的更高，看的更远。如弈棋高手，统筹全局，运筹帷幄而决胜千里。</p><p>李东把网宿向云计算行业的开拓定位于“进军”，认为只有具备一定的实力与规模，和真正具有底气的公司，才能用进军这两个词，云计算对于网宿并不是一个陌生的、新的行业，对于云计算市场的切入，网宿已经有了清晰的规划——面向金融、视频、制造三大行业，打造定制化行业云服务。</p><p>李东解释，视频行业<a href='http://www.enet.com.cn/solution/' target='_blank' class='article'>存储</a>和计算需求非常大，而且大量的视频直播客户成立时间相对晚， IT架构比传统企业简单很多，对云服务接受度高。同时视频行业竞争激烈，核心技术能力都聚焦于前端业务创新，他们倾向于服务商为其提供一体化的<a href='http://www.enet.com.cn/solution/' target='_blank' class='article'>解决方案</a>。网宿CDN已经覆盖国内80%视频直播客户，以CDN为入口拓展视频云具备优势。</p><p>再看金融行业，互联网金融对传统金融带来很大冲击，红包等新的业务形式，传统金融行业IT架构难以满足。金融行业通常采用烟囱式的IT建设，哪儿有一个需求，就给他修一个烟囱。但是不同烟囱之间的资源共享其实是非常差的，而云计算正好可以解决这个问题。同时，金融行业对安全性、合规性要求非常高，就要求服务商具有中立身份。如果能打消以往的封闭思想，提供高定制化，高安全性的金融云服务，这将是一片巨大的市场。</p><p>而制造行业，按行业划分，在整体中国几百亿的云计算市场规模里，是占据第一的，大概能占到30%左右。网宿的优势是平台和规模，从一个规模大的行业切入，可复制性强，规模效应大。这就是网宿选择视频，金融，制造作为行业云三个方向的考虑。</p><p>智者无惑，勇者无畏。云计算服务正处于发展的黄金时期，希望企业展开理想的翅膀，激发无限的潜能，敢梦敢想敢做。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/1008/78/9182226.jpg' width='600' height='399' alt='网宿科技' title='网宿科技' border='1' /><p></p></div></p><p><b>安全是一切的基础</b></p><p></p><p>洞察用户，真正为用户体验考虑的企业才能走的更长远。在公有云领域，安全事故频发，不管是国外的云计算巨头亚马逊、<a href='http://www.enet.com.cn/ezone/2291/index.shtml' target='_blank' class='article'>微软</a>和Google，还是国内的阿里云、腾讯云、百度云，都遭遇过因为安全问题出现云主机宕机和服务中端的现象。由此云服务的中断影响日益广泛和重大，因此人们对于云服务的安全也更为敏感，调查发现，高达59%的被调查者认为，目前的云计算不安全，比认为目前的云计算安全所占的比例超过了44个百分点。</p><p>如今以各云计算服务商在加强平台的安全性上不遗余力，从事抗拒绝服务的美国厂商Aber已在全球范围内推出云化服务，从事负载均衡的以色列公司RAD也开始提供云安全服务，美国verizon、中国电信、中国联通等纷纷推出云堤等安全服务，阿里提供了云盾安全服务，就连CDN的鼻祖Akamai也花费3.7亿美金收购安全公司并推出云安全服务。如何有效解决云数据的安全问题、将是企业突出重围、脱颖而出的关键。</p><p>网宿科技庞大的CDN平台，本身就是一个天然的安全防护屏障；同时，CDN平台的调度能力也将延续并很好的用于云安全服务，通过调度分散攻击，从而起到防御作用。</p><p>“我们之前所谈的一切，它的基础都是安全。网宿会持续深耕专业安全市场，了解客户在安全方面的一些困扰和痛点，提供定制化的产品和服务，从而形成有竞争力的<a href='http://www.enet.com.cn/security/' target='_blank' class='article'>安全解决方案</a>。”李东表示。</p><p></p><p><b>结语：志在巅峰的勇者</b></p><p></p><p>“归根结底最终为的就是帮助用户提升体验。包括内容，连接，交互方面的体验。只有云计算的价值被深入挖掘，基于云计算基础之上的更多的内容，有价值的内容，超越想象的体验，才能够成为现实。”在采访中李东谈道。</p><p>遥望星空，有人看到璀璨星空，有人看到无际宽广，而网宿科技看到的是未来与希望。浩瀚星际，征途是星辰大海，也是无限机遇、万千挑战。征途漫漫，网宿科技剑指前方，志在巅峰的勇者，无畏亦无惑。</p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

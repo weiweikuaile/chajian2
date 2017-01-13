@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="行走在光明与暗影间的漏洞捕手,本文主要介绍,内容, 年初，谷歌的围棋人工智能Alpha Go以4:1的绝对优势战胜了前世界围棋冠军李世石。这让人们不禁惊呼AI进步速度之快，同时，也慨叹谷歌黑科技的强大。
+全球安全领域，有一支同样以Alpha（阿尔法）为命名的团队，尽管成立时间不长，却在与Alpha Go的亲兄弟Android系统和Chrome浏览器的多次交锋中，取得了炫目的战果。
+
+">
+<meta name="keywords" content=",,内容,360,安全,阿尔法">
+<meta name="author"  content=",,内容,360,安全,阿尔法">
+<title>行走在光明与暗影间的漏洞捕手</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20160907574150";atitle='%D0%D0%D7%DF%D4%DA%B9%E2%C3%F7%D3%EB%B0%B5%D3%B0%BC%E4%B5%C4%C2%A9%B6%B4%B2%B6%CA%D6';a_date="2016-09-07 17:33";a_author="元略";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="360";
+keys[1]="安全";
+keys[2]="阿尔法";
+var siteid="ciweek";
+var surl="http://www.enet.com.cn/";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">行走在光明与暗影间的漏洞捕手</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-09-07</span>
+            <span class="spauthor">eNet&Ciweek/元略</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>年初，谷歌的围棋人工智能Alpha Go以4:1的绝对优势战胜了前世界围棋冠军李世石。这让人们不禁惊呼AI进步速度之快，同时，也慨叹谷歌黑科技的强大。
+全球安全领域，有一支同样以Alpha（阿尔法）为命名的团队，尽管成立时间不长，却在与Alpha Go的亲兄弟Android系统和Chrome浏览器的多次交锋中，取得了炫目的战果。
+
+</p>
+        </div> 
+        <div class="text">
+        	<p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0907/45/2409661.jpg' width='600' height='398' alt='360' title='360' border='1' /><p></p></div></p><p>年初，谷歌的围棋人工智能Alpha Go以4:1的绝对优势战胜了前世界围棋冠军李世石。这让人们不禁惊呼AI进步速度之快，同时，也慨叹谷歌黑科技的强大。</p><p>全球安全领域，有一支同样以Alpha（阿尔法）为命名的团队，尽管成立时间不长，却在与Alpha Go的亲兄弟Android系统和Chrome浏览器的多次交锋中，取得了炫目的战果。</p><p></p><p><b>戴着白帽子的黑客</b></p><p></p><p>阿尔法团队隶属于360<a href='http://www.enet.com.cn/emobile/' target='_blank' class='article'>手机</a>卫士事业部，在业内他们也被称为白帽黑客。提起黑客，在大多数人的头脑中，他们是一群冷酷而又技术高超的神秘人，通过寻找系统存在的破绽，攻击并控制<a href='http://www.enet.com.cn/computer/' target='_blank' class='article'>计算机</a>，修改数据，窃取信息。然而，并非所有的黑客都如人们印象中的样子。</p><p>黑客是对精通计算机各类技术的高手的统称，黑帽黑客才是人们通常所认为的黑客。与之相反的一批人叫做白帽黑客，他们所用的技术与黑帽黑客有相似之处，但目的却不是为自身获取利益，而是通过攻击系统的漏洞，提交相应报告，帮助系统厂商不断将系统进行完善，以增强系统的安全性、可靠性。“虽然我们是做攻击的，但本质的意义还在于防护。”阿尔法团队的队长龚广说道。</p><p>在移动互联的时代，移动智能终端正在取代PC成为人们沟通和了解世界的必备工具，其系统的安全性问题也日益突出。就在不久前，阿尔法团队（Alpha Team）独家发现ChromeV8引擎漏洞“Badkernel,”通过此漏洞攻击者可对所有使用受影响引擎的产品进行远程攻击。该漏洞影响范围较广，包括微信、手机QQ、京东、58同城等知名手机APP均可能受该漏洞影响。当攻击者利用漏洞获取用户使用APP的完全控制权，就会危及用户的朋友圈、好友信息、聊天记录甚至是支付钱包的安全，可使上亿甚至更多用户遭受隐私泄露及财产损失，危害巨大。阿尔法团队在第一时间报告该漏洞给相关引擎提供商，并提供了修复建议，及时避免了一场危害巨大的移动安全事件。同时国家信息安全漏洞库（CNNVD）也收录了该漏洞。</p><p>谷歌发布的7月最新安全公告称，已批量修复Android平台的多个安全漏洞。在这些安全漏洞发现的背后则少不了白帽黑客的身影。公告中特别对来自中国阿尔法团队的安全研究员龚广、陈豪提出了致谢。这不仅是他们自己的荣誉，更是对来自中国的白帽黑客们在全球移动安全领域做出的巨大贡献的肯定与认同。</p><p><b>Master-Chief</b></p><p></p><p>“你好，我是龚广。”一句简单的开场，语调平和，给人以踏实、稳重与坚毅的感觉，在他身上完全看不到通常大众所认为的黑客应有的高冷和傲娇。</p><p>在今年初举行的Pwn0rama亚太手机安全挑战赛上，龚广继去年破解了Nexus 6之后，又破解了其继任者Nexus 6P，而这次仅仅只用了8秒钟。恐怕大多数人都不会相信，就是这样一个创造了如此成绩的厉害角色，入行居然才两年半的时间，成长之快令人称奇。</p><p>在谈到何以能进步如此神速时，龚广笑言：“感兴趣很重要，你真正喜欢这个东西，才能沉下心来做，如果只当做是混饭吃的技能，则很难有成就，自己也会很痛苦。”</p><p>“兴趣是最好的老师。”这是爱因斯坦一句广为传颂的名言，兴趣是驱动人们发现、探索、研究新事物的源动力，也是人们追求不断超越自我、突破创新的能量所在。对于能从事一份自己感兴趣的工作，龚广觉得这是一件幸运的事情，也是他能在国际黑客比赛屡次打破记录的重要原因。</p><p>加入360手机卫士以来，龚广的功力在不断提升的同时，也完成了从一名能力强悍的单兵到一个团队的领头人的转变。搞技术与做管理之间有着明显的不同，技术需要不断地在某一个方向上深挖，胜在专注和执着；而管理则重在沟通与协调，能够处理好人与人之间的关系才能成为好的管理者。</p><p>像所有酷爱技术的程序员一样，在成为团队的管理者之后，龚广依然无法放弃对技术的钻研，但他深刻的认识到“团队的力量远比个人的力量要大得多”。因此，在提升自身能力的同时，龚广还在培养自己的队员，带着他们一起向前冲。</p><p>“一个团队要形成战斗力，就要对团队成员进行培养，在这个过程中，团队的领头人必然要花费大量的时间和精力，但我认为这一切都是值得的。”龚广如是说。</p><p>事实证明，龚广的努力是值得的，在他的带领下，阿尔法团队展现出了惊人的实力，多次在世界黑客大赛上创造新纪录。</p><p><b>安全领域的一支奇兵</b></p><p></p><p>阿尔法团队在成立的两年时间里，屡在国际大赛上摘得桂冠，并因发现了20余个Android系统漏洞而受到谷歌的多次公开致谢。这样一支由80后与90后组成的年轻队伍，凭借着非凡的实力，成为了国际安全领域里的奇兵。</p><p>阿尔法团队初露锋芒是在2015年的Pwn2Own Mobile国际黑客大赛上，阿尔法团队一举攻下了安装有最新Android系统的Nexus 6手机；2016年Pwn0rama亚太手机安全破解挑战赛中，更是连续攻破了谷歌Nexus 6P、<a href='http://product.enet.com.cn/price/plist4_2117.shtml' target='_blank' class='article'>三星</a>Galaxy Note 5、<a href='http://product.enet.com.cn/price/plist32_2115.shtml' target='_blank' class='article'>LG</a> G4三款热门手机，成为赛事中唯一攻破三款手机的参赛团队；随后，阿尔法团队又携手伏尔甘团队拿下了号称全球最安全浏览器的Chrome。</p><p>“要成为行业<a href='http://product.enet.com.cn/price/plist3_2195.shtml' target='_blank' class='article'>精英</a>，所需要的不光是有过人的技术，更要对挖掘系统漏洞感兴趣，并且思维要新颖，想法独特，最后还要有能静下心做事的态度。”龚广表示。在他看来，阿尔法团队的成员虽然年轻，但每一个人却都可以算得上是行业内的精英，这也是整个团队能屡创佳绩，获得众多荣誉的基础所在。</p><p>荣誉就像一把双刃剑，一方面是对以前努力的肯定，可以增强自信，激励人们不断地超越过去，突破自我；另一方面荣誉又像是舒适的床，获得了荣誉的人也很容易躺在上面沾沾自喜，不知不觉中被时代所抛弃。能够起到什么样的作用，关键还在于人们对待荣誉的态度。</p><p>谈到如何看待团队获得的荣誉时，龚广坦言：“获得的荣誉是对我们以前工作的认可，但我觉得还是不够，还需要更多。”以如此态度看待过往的荣誉，方能不被名利绊住双腿而停下前进的脚步。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0907/93/2410002.jpg' width='600' height='398' alt='360' title='360' border='1' /><p></p></div></p><p><b>让每个人享受安全的移动互联生活</b></p><p></p><p>移动互联网的发展在为人们带来更为方便、精彩的生活的同时，安全问题的日益突出，使本应绚烂多姿的移动互联生活蒙上了一层阴霾。</p><p>在龚广看来，阿尔法团队存在的意义就在于，“能够发现一些系统的，或是应用的漏洞，能够使这些厂商第一时间修复这个漏洞，以避免用户因为漏洞的存在而遭受损失。”</p><p>“即使在发现漏洞之后，厂商并没有及时进行修复，通过对漏洞的研究，依然能够发现那些利用漏洞进行攻击的病毒或木马，并据此提供相应的防护对策，同时，在第一时间对这些恶意程序进行查杀，将用户面临的风险或损失降到最低。”</p><p>如果说现在的系统安全没处理好，对于一般用户而言，至多也只是损失一些钱财的话，随着万物互联时代的到来，系统安全就可能直接威胁到用户的生命安全。近来，经常能听到黑客攻破车载系统，最终取得汽车的控制权的报道。可以想象，一辆在路上高速行驶的汽车，如果系统被入侵，驾驶员失去了对车辆的控制，对于车内乘客来说将是极大的安全威胁。</p><p>用自己的辛勤与智慧，吹走笼罩在移动互联生活上的阴霾，让世界上的每个人都享受技术所带来的精彩便捷生活，是所有像龚广一样的从事漏洞挖掘的安全研究员的职责与愿望，也是整个360手机卫士团队工作的意义所在。</p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

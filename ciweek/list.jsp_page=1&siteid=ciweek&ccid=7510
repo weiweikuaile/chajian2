@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="format-detection" content="telephone=no">
+<title>《互联网周刊》--网络时代的商业周刊</title>
+<meta name="description" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<meta name="keywords" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<meta name="author" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/public.css">
+<link rel="stylesheet" href="css/list.css">
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="js/html5shiv.min.js"></script>
+  <script src="js/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<div class="container">
+      <!-- Static navbar -->
+      <nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+</div> <!-- /container -->
+<div class="container context">
+    <div class="con_left">
+    
+			<dl class="toppic">
+            	<dt><a href="/article/2016/1008/A20161008574246.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/53/9211728.jpg" width="660" height="330"/></a></dt>
+				<dd>
+					<span></span>
+					<p><a href="/article/2016/1008/A20161008574246.shtml" target="_blank">对电信诈骗需要综合整治</a></p>
+				</dd>
+            </dl><!-- dl.toppic end -->
+            <div class="conart">
+				<!--div class="blank20"></div>
+				<div id="606"><script language="javascript">enetad.load("606");</script></div-->
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574245.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/43/9205865.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574245.shtml" target="_blank">托夫勒与互联网周刊 </a></h2>
+				<p><span>9月23日，“信息社会50人论坛”纪念托夫勒 & 论坛成立5周年座谈会上，我受邀做纪念托夫勒的主题发言。我想把托夫勒思想的精髓，概括在最简短的发言之内。首先想到的，就是“托夫勒之光”。 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574245.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574240.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/94/9201226.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574240.shtml" target="_blank">保险乘互联网之风  重塑生命之重 </a></h2>
+				<p><span>什么是保险？胡适先生曾经说：“保险的意义，只是今日做明日的准备，父母做儿女的准备，儿女幼小时做儿女长大时的准备，如此而已。今天预备明天，这是真稳健；生时预备死时，这是真旷达；父母预备儿女， ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574240.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574238.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/35/9190952.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574238.shtml" target="_blank">大数据服务万千农户， 全产业链布局撑起农业生态 </a></h2>
+				<p><span>从社会消费者的角度看，工业化解决生产效率（降低成本），“互联网+”解决生产“质量”（精准匹配）。大数据作为互联网+各行各业的催化剂，贯穿传统产业的设计、生产、营销、销售及售后整个闭环，推动传 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574238.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574234.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/37/9186430.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574234.shtml" target="_blank">金融服务中APP不单纯是销售工具 </a></h2>
+				<p><span>“移动改变生活”，在几年前这或许只是一句广告语。但到了今天，生活与移动互联网已经变得形影不离，我们只需要轻轻地点触指尖，就能够随时随地获取想要的信息。我们的生活方式因移动互联网而改变，作为 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574234.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574233.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/05/9182516.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574233.shtml" target="_blank">志在巅峰的勇者，无畏亦无惑 </a></h2>
+				<p><span>互联网自诞生以来持续保持着快速发展，在基本解决了人与人的信息互联后，产业互联、物联网等新的应用和方向也在快速推进，而这些新领域对于数据计算、交互和传输需求，将对现有的互联网的计算及传输带来 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574233.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574232.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/91/9177617.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574232.shtml" target="_blank">分享经济模式下 共同建立良性版权生态 </a></h2>
+				<p><span>从古至今，技术的进步一直影响着人类的生活，甚至使人类生活方式发生大规模改变。伴随着智能手机的应用普及和移动互联网的兴起、发展，人类进入了图片分享和图片社交的全新时代。图片是非常重要的信息载 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574232.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574231.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/78/9172306.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574231.shtml" target="_blank">技术必然驱动证券服务走向普惠、多元与理性 </a></h2>
+				<p><span>
+在2014年创业之前，牛股王的创始人鞠盈禧，已先后在和讯、齐鲁证券（现更名为“中泰证券”）做了十多年码农。“我试用过多家股票软件，体验并不好，我觉得占80%份额的散户应该享有更好的服务。”鞠盈禧 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574231.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574230.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/51/9168029.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574230.shtml" target="_blank">无他，只有一份固执带我们跨山过海 </a></h2>
+				<p><span>天下有千千万万的企业，每个企业都时刻面对一个问题，这个企业该如何存在？是不计成本的去冲刺业绩，还是落实基础注重理念，是无限挽留人才还是尊重行业步伐，是赞同“没有规矩，不成方圆”亦或是崇尚“ ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574230.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/1008/A20161008574229.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/1008/93/9164876.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/1008/A20161008574229.shtml" target="_blank">用户的认可，源自信念铸就的产品价值 </a></h2>
+				<p><span>信念是一个人内心深处不容置疑的坚定想法，若以信念为刃，则可在奋斗路上披荆斩棘；若以信念为翼，则能在梦想之空翱翔千里；若以信念为根，则将在磐石之心生根发芽，生如夏花。 ... </span><a class="hidden-xs" href="/article/2016/1008/A20161008574229.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-10-08</span>
+			</dd>
+		</dl>
+
+<div class="page hidden-xs">
+
+<a class="pastyle pagrey">首页</a> <a class="pastyle pagrey">上一页</a>
+<a>1</font></a><a class="pagrey2" href=/v7/list.jsp?page=2&siteid=ciweek&ccid=7510>2</a><a class="pagrey2" href=/v7/list.jsp?page=3&siteid=ciweek&ccid=7510>3</a><a class="pagrey2" href=/v7/list.jsp?page=4&siteid=ciweek&ccid=7510>4</a><a class="pagrey2" href=/v7/list.jsp?page=5&siteid=ciweek&ccid=7510>5</a><a class="pagrey2" href=/v7/list.jsp?page=6&siteid=ciweek&ccid=7510>6</a><a class="pagrey2" href=/v7/list.jsp?page=7&siteid=ciweek&ccid=7510>7</a><a class="pagrey2" href=/v7/list.jsp?page=8&siteid=ciweek&ccid=7510>8</a><a class="pagrey2" href=/v7/list.jsp?page=9&siteid=ciweek&ccid=7510>9</a><a class="pagrey2" href=/v7/list.jsp?page=10&siteid=ciweek&ccid=7510>10</a>
+<a class="pastyle" href="/v7/list.jsp?page=2&siteid=ciweek&ccid=7510">下一页</a> <a class="pastyle" href="/v7/list.jsp?page=15&siteid=ciweek&ccid=7510">末页</a>
+</div>
+<div class="page pagemobile hidden-lg hidden-md hidden-sm">
+
+<a class="pastyle pagrey">上一页</a>
+
+<span class="pamar"></span>
+
+<a class="pastyle" href="/v7/list.jsp?page=2&siteid=ciweek&ccid=7510">下一页</a>
+
+</div>
+<div id="phid" style="display:none;">1</div>
+</div>
+
+    </div>
+    <div class="con_mid_bak"></div>
+    <div class="con_right">
+    	<dl class="dlright">
+        	<dt>
+	<div><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"></a></div>
+    <div class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v7/images/con7.jpg" width="100%" height="auto"></a></div>
+    <div class="img" id="607"><script src='http://www9.enet.com.cn/mem_str_zoneid=607'></script></div>
+</dt>
+<dd>
+    <ul>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1013/A20151013568408.shtml">未来一流公司不会用二手模式</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1023/A20151023568463.shtml">2015迄今中国最好的十款智能家居产品</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1019/A20151019568443.shtml">2015互联网金融分类排行</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1016/A20151016568424.shtml">2015中国工程咨询机构300强</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1016/A20151016568421.shtml">2015互联网+企业通信服务商TOP100</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/1015/A20151015568416.shtml">2015企业WI-FI解决方案提供商TOP100</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/1015/A20151015568418.shtml">制造业最需要的不是互联网思维，而是软实力或精神价值重塑</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0812/A20150812568161.shtml">国家战略：互联社区</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0810/A20150810568156.shtml">时间停止的时刻可以延续吗？</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0806/A20150806568148.shtml">为什么一个人可以干一行爱一行，为什么成功的人都是干一行爱一行？</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0731/A20150731568130.shtml">孤独是伟大公司诞生的前奏</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0730/A20150730568128.shtml">怎样做一个企业？尤其是在这个互联网时代</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0727/A20150727568118.shtml">手机将在5年后消失？</a></li>		
+    </ul>
+    <a class="more" href="#">MORE +</a>
+</dd>
+        </dl>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+$(document).ready(function(){
+	//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var dlright = $('.dlright').height()+''.replace('px','')*1;
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			var dtright = $('.dlright dt').height()+''.replace('px','')*1;
+			var ddright = con_left - dtright-106;
+			if( dlright > con_left){
+				$('.dlright').css('height',dlright)
+			}else{
+				$('.dlright dd').css('height',ddright);
+			}
+		}	
+	})
+})
+</script>
+</body>
+</html>

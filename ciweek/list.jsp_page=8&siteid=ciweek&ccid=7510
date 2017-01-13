@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="format-detection" content="telephone=no">
+<title>《互联网周刊》--网络时代的商业周刊</title>
+<meta name="description" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<meta name="keywords" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<meta name="author" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/public.css">
+<link rel="stylesheet" href="css/list.css">
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="js/html5shiv.min.js"></script>
+  <script src="js/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<div class="container">
+      <!-- Static navbar -->
+      <nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+</div> <!-- /container -->
+<div class="container context">
+    <div class="con_left">
+    
+            <div class="conart">
+				<!--div id="606"><script language="javascript">enetad.load("606");</script></div-->
+				<dl class="clearfix">
+					<dt><a href="/article/2016/0608/A20160608573938.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0608/41/3686434.jpg"></a></dt>
+					<dd class="ddbak"></dd>
+					<dd>
+						<h2><a href="/article/2016/0608/A20160608573938.shtml" target="_blank">“原心”还“愿”，大数据场景营销先行者 </a></h2>
+						<p><span>如今传统媒体生态逐渐被日新月异的数字媒体冲击，数字科技正如浪潮般席卷并全面解放着我们的生活，同时深刻地改造着营销世界。 ... </span><a class="hidden-xs" href="/article/2016/0608/A20160608573938.shtml" target="_blank">[更多]</a></p>
+						<span class="date hidden-xs">2016-06-08</span>
+					</dd>
+				</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0608/A20160608573937.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0608/85/3671181.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0608/A20160608573937.shtml" target="_blank">眼见未必真实，数据更显合“理” </a></h2>
+				<p><span>在国内经历了四年的发展，以程序化购买来投放互联网展示广告已成为数字营销的重要趋势，而这一领域的快速发展既有DSP、RTB、SSP等平台服务商的努力，还有为这些平台提供技术解决的广告技术提供商的支撑。 ... </span><a class="hidden-xs" href="/article/2016/0608/A20160608573937.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-08</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0607/A20160607573934.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0607/88/2934848.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0607/A20160607573934.shtml" target="_blank">返璞归真，好的营销不用加戏 </a></h2>
+				<p><span>一个好的营销，源自于对汽车行业深度的理解。专注是一，一生二，二生三，三生万物。 ... </span><a class="hidden-xs" href="/article/2016/0607/A20160607573934.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-07</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0607/A20160607573933.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0607/42/2892315.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0607/A20160607573933.shtml" target="_blank">算法之外，仍然需要有态度的新闻 </a></h2>
+				<p><span>内容分发上，自媒体处在黄金期，各大平台给自媒体提供了各式各样的接入机会，但反过来，黄金期也意味着平台期。拥有庞大头部阵容的成熟型内容平台，在流量分配上，对新生力量的成长是种冲击，前期的红利 ... </span><a class="hidden-xs" href="/article/2016/0607/A20160607573933.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-07</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0607/A20160607573931.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0607/17/2870679.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0607/A20160607573931.shtml" target="_blank">刚柔并济，造风破局——看冯幸如何炼成乐视手机首年千万销量 </a></h2>
+				<p><span>正所谓“风生才能水起”，大潮的来临凭借的是风起风转，如何起风才是在目前中国手机市场中占据一席之地的关键。在冯幸看来，“风就是势，做事就得借势，而且要顺势，借不着势的时候，就得自己造势。对乐 ... </span><a class="hidden-xs" href="/article/2016/0607/A20160607573931.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-07</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0607/A20160607573928.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0607/34/2858338.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0607/A20160607573928.shtml" target="_blank">以开放合作的心态 创造无可替代的价值 </a></h2>
+				<p><span>随着移动互联网的发展，数字广告亦迎来飞速发展，数据显示2015年美国数字广告营收达596亿美元，创历史新高，同比增幅超过20%，中国数字广告行业也不甘落后，2015年市场营收达260亿美元。数字营销市场的规 ... </span><a class="hidden-xs" href="/article/2016/0607/A20160607573928.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-07</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0607/A20160607573926.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0607/83/2837480.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0607/A20160607573926.shtml" target="_blank">凤凰网原生营销：以景动情 以敬致意 </a></h2>
+				<p><span>随着移动互联网的发展，营销行业经历着前所未有的变革，渠道更加丰富、场景更加多元、产品、技术和模式不断创新以顺应时代潮流。其中，场景作为“互联网+”时代互联网营销的下一个超级入口，焕发出鲜活的 ... </span><a class="hidden-xs" href="/article/2016/0607/A20160607573926.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-07</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0606/A20160606573906.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0606/19/2076470.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0606/A20160606573906.shtml" target="_blank">承兑初心，再塑传奇 </a></h2>
+				<p><span>很多时候，真实与虚幻的界限并没有难么清晰。游戏即人生，人生亦游戏，它们都是人类更真切情感的传递方式。 ... </span><a class="hidden-xs" href="/article/2016/0606/A20160606573906.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-06-06</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0518/A20160518573827.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0518/87/5690123.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0518/A20160518573827.shtml" target="_blank">互联网改变就业的宏观经济学机理 </a></h2>
+				<p><span>“互联网+”推动着各行各业的就业结构，从以产业化为主，向以服务化为主，发生着结构性的改变。这是报告中反映出的新动向。
+ ... </span><a class="hidden-xs" href="/article/2016/0518/A20160518573827.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-05-18</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2016/0518/A20160518573826.shtml" target="_blank"><img src="http://images.enet.com.cn/2016/0518/54/5692382.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2016/0518/A20160518573826.shtml" target="_blank">不负清华兼济天下 ，打造开放赋能的大数据“利他生态” </a></h2>
+				<p><span>知己知彼百战不殆，基于在大数据行业的深厚积累及对市场的敏锐了解和把握，面对市场风云变幻，张韶峰从容不迫泰然处之，一点一滴地进步，深知厚积才能薄发，没有丝毫急功近利的冲动。 ... </span><a class="hidden-xs" href="/article/2016/0518/A20160518573826.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2016-05-18</span>
+			</dd>
+		</dl>
+
+<div class="page hidden-xs">
+
+<a class="pastyle" href="/v7/list.jsp?page=1&siteid=ciweek&ccid=7510">首页</a> <a class="pastyle" href="/v7/list.jsp?page=7&siteid=ciweek&ccid=7510">上一页</a>
+<a class="pagrey2" href=/v7/list.jsp?page=1&siteid=ciweek&ccid=7510>1</a><a class="pagrey2" href=/v7/list.jsp?page=2&siteid=ciweek&ccid=7510>2</a><a class="pagrey2" href=/v7/list.jsp?page=3&siteid=ciweek&ccid=7510>3</a><a class="pagrey2" href=/v7/list.jsp?page=4&siteid=ciweek&ccid=7510>4</a><a class="pagrey2" href=/v7/list.jsp?page=5&siteid=ciweek&ccid=7510>5</a><a class="pagrey2" href=/v7/list.jsp?page=6&siteid=ciweek&ccid=7510>6</a><a class="pagrey2" href=/v7/list.jsp?page=7&siteid=ciweek&ccid=7510>7</a><a>8</font></a><a class="pagrey2" href=/v7/list.jsp?page=9&siteid=ciweek&ccid=7510>9</a><a class="pagrey2" href=/v7/list.jsp?page=10&siteid=ciweek&ccid=7510>10</a>
+<a class="pastyle" href="/v7/list.jsp?page=9&siteid=ciweek&ccid=7510">下一页</a> <a class="pastyle" href="/v7/list.jsp?page=15&siteid=ciweek&ccid=7510">末页</a>
+</div>
+<div class="page pagemobile hidden-lg hidden-md hidden-sm">
+
+<a class="pastyle" href="/v7/list.jsp?page=7&siteid=ciweek&ccid=7510">上一页</a>
+
+<span class="pamar"></span>
+
+<a class="pastyle" href="/v7/list.jsp?page=9&siteid=ciweek&ccid=7510">下一页</a>
+
+</div>
+<div id="phid" style="display:none;">8</div>
+</div>
+
+    </div>
+    <div class="con_mid_bak"></div>
+    <div class="con_right">
+    	<dl class="dlright">
+        	<dt>
+	<div><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"></a></div>
+    <div class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v7/images/con7.jpg" width="100%" height="auto"></a></div>
+    <div class="img" id="607"><script src='http://www9.enet.com.cn/mem_str_zoneid=607'></script></div>
+</dt>
+<dd>
+    <ul>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1013/A20151013568408.shtml">未来一流公司不会用二手模式</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1023/A20151023568463.shtml">2015迄今中国最好的十款智能家居产品</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1019/A20151019568443.shtml">2015互联网金融分类排行</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1016/A20151016568424.shtml">2015中国工程咨询机构300强</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1016/A20151016568421.shtml">2015互联网+企业通信服务商TOP100</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/1015/A20151015568416.shtml">2015企业WI-FI解决方案提供商TOP100</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/1015/A20151015568418.shtml">制造业最需要的不是互联网思维，而是软实力或精神价值重塑</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0812/A20150812568161.shtml">国家战略：互联社区</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0810/A20150810568156.shtml">时间停止的时刻可以延续吗？</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0806/A20150806568148.shtml">为什么一个人可以干一行爱一行，为什么成功的人都是干一行爱一行？</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0731/A20150731568130.shtml">孤独是伟大公司诞生的前奏</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0730/A20150730568128.shtml">怎样做一个企业？尤其是在这个互联网时代</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0727/A20150727568118.shtml">手机将在5年后消失？</a></li>		
+    </ul>
+    <a class="more" href="#">MORE +</a>
+</dd>
+        </dl>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+$(document).ready(function(){
+	//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var dlright = $('.dlright').height()+''.replace('px','')*1;
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			var dtright = $('.dlright dt').height()+''.replace('px','')*1;
+			var ddright = con_left - dtright-106;
+			if( dlright > con_left){
+				$('.dlright').css('height',dlright)
+			}else{
+				$('.dlright dd').css('height',ddright);
+			}
+		}	
+	})
+})
+</script>
+</body>
+</html>

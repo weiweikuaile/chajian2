@@ -1,0 +1,67 @@
+
+1
+38
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+140
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+186
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+288
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+334
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+436
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+482
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+584
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+630
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+732
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+778
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+880
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+926
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+1028
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+1074
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+1176
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+1222
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+1324
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+1370
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+1472
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')
+1
+1518
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/0505/A20160505573717.shtml','0','99','0','0','','','0')
+1
+1620
+insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('9','0','','','','','','1','http://ciweek.com/article/2016/1008/A20161008574230.shtml','0','99','0','0','','','0')

@@ -1,0 +1,192 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="君子经济学的数学方法——对利益的双层规划,本文主要介绍普通,内容, 如何在做生意中成为君子？这涉及价值观的问题。
+君子是体现东方价值观的人性假设。与西方经济人假设形成对照。经济人假设反映的最大化原则，追求的是自我利益最大化。君子的人性假设反映的是满意原则，最大不好，最小也不好，中庸最为适合、满意，就是我们口语里说的“恰到好处”。
+">
+<meta name="keywords" content="普通,普通,内容,姜奇平,君子,经济学">
+<meta name="author"  content="普通,普通,内容,姜奇平,君子,经济学">
+<title>君子经济学的数学方法——对利益的双层规划</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20160919574190";atitle='%C2%BE%C3%BD%C3%97%C3%93%C2%BE%C2%AD%C2%BC%C3%83%C3%91%C2%A7%C2%B5%C3%84%C3%8A%C3%BD%C3%91%C2%A7%C2%B7%C2%BD%C2%B7%C2%A8%C2%A1%C2%AA%C2%A1%C2%AA%C2%B6%C3%94%C3%80%C3%BB%C3%92%C3%A6%C2%B5%C3%84%C3%8B%C2%AB%C2%B2%C3%A3%C2%B9%C3%A6%C2%BB%C2%AE';a_date="2016-09-19 15:57";a_author="姜奇平";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7510";a_acname="内容";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="姜奇平";
+keys[1]="君子";
+keys[2]="经济学";
+var siteid="ciweek";
+var surl="";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">君子经济学的数学方法——对利益的双层规划</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-09-19</span>
+            <span class="spauthor">eNet&Ciweek/姜奇平</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>如何在做生意中成为君子？这涉及价值观的问题。
+君子是体现东方价值观的人性假设。与西方经济人假设形成对照。经济人假设反映的最大化原则，追求的是自我利益最大化。君子的人性假设反映的是满意原则，最大不好，最小也不好，中庸最为适合、满意，就是我们口语里说的“恰到好处”。
+</p>
+        </div> 
+        <div class="text">
+        	<p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0919/76/2722617.jpg' width='600' height='450' alt='君子经济学' title='君子经济学' border='1' /><p></p></div>如何在做生意中成为君子？这涉及价值观的问题。</p><p>君子是体现东方价值观的人性假设。与西方经济人假设形成对照。经济人假设反映的最大化原则，追求的是自我利益最大化。君子的人性假设反映的是满意原则，最大不好，最小也不好，中庸最为适合、满意，就是我们口语里说的“恰到好处”。</p><p>做人当然要做君子。不过，《论语》中给出的君子的答案太多了，有几十种。当代人学都学不过来。我忽发奇想，价值观既然是价值，能不能计算，通过数学方法把握呢？数学语言与文学语言相比，歧义较少，理工科出身的人，可以试试用数学思维理解做人问题。</p><p>整个西方标准经济学，从数学观点看，不过是一个极简单的数学规划问题：设目标函数（代表利益最大化），约束条件（代表成本最小化），求解有约束的最优。但从做人角度看，这么简单一个问题，却长期拎不清。</p><p>斯密的价值观（自利就是利他；或主观为自己，客观为他人）从数学看就有漏洞，相当于设目标函数为个人利益最大化，本来需要有一个反映利他的约束条件，斯密的结论才能成立。但斯密偏不，相当于认为这个约束不用设，也能自然而然实现。他本意是你客观上不利他，他人不买帐，你主观上的利己也无法实现。这纯属书呆子之见。算漏了交易费用的存在。举例来说，华尔街废掉了罗斯福时期的格拉斯-斯蒂格尔法规，相当于废掉了这个约束条件，任华尔街利己而损害利他。这次希拉里从桑德斯那里抄袭来的竞选高招，就是恢复格拉斯-斯蒂格尔法规。一个约束条件，可以决定希拉里能否当成总统，可见学好数学的重要。</p><p>以数学规划的标准来衡量斯密的命题，相当于无约束的最优，于是成了小人法则。至少是小人最喜欢利用的法则。因为小人在跟君子斗的时候，可以说，我斯密爷爷说过，我的利利益最大化，就是你的利益最大化。所以我只要大而不倒，损人利己，理就能讲通。</p><p>孔子的数学水平不知道怎么样，如果他会数学规划，可以分两个层面，讨论相反的君子的概念。</p><p>第一个层面，在单层规划中定义君子。</p><p>首先要将无约束最优，改为有约束最优。君子的意思，其实不是利他（墨子的兼爱才是利他），而是要在利他与利己之间保持平衡。因此可以把利他与利己分别定义为目标函数和约束条件。如果以利他为目标函数，则以利己为约束条件；如果以利己为目标函数，则以利他为约束条件。</p><p>以利己为目标函数，以利他为约束条件，形成的有约束最优，是功利主义的君子。但实践中一定要把利他约束变成硬约束。否则一旦约束不住，就成了倚强凌弱，两极分化，这是一个世界级的难题。</p><p>以利他为目标函数，以利己为约束条件，形成的有约束最优，比较接近儒家的君子。如果去掉利己的约束条件，就成了毫不利己，专门利人，不是君子，而是圣人；但在实际上，去掉利己这一成本约束，出的更多不是圣人，而是伪君子，如贪腐官员。《论语》规划做君子，不规划做圣人，不知是否与孔子当最高法院院长（大司寇）从事纪检司法工作见多识广有关。满嘴仁义道德，容易出男盗女娼。满，总是容易招损。所以要提倡中庸。中庸不是折衷或正中间，而是说任何最优，都要接受成本约束和制衡，目标和约束要平衡在均衡值上。</p><p>君子的人性假设中，最大不好，最小也不好，适中最好。适中就是有约束的最优。目标最大化经过约束后，就不是最大值了（“最大化”就是俗话说的“走极端”，即在数学中求极值）。无论利他还是利己，有了制度约束或道德约束，都不走极端，反而可以有效保障价值观稳定在君子这个均衡值上。不信的人总喜欢唱高调，但一定绕不过监督成本（交易费用）上升抵消其作用这一条。</p><p>第二个层面，在双层规划中定义君子。</p><p>单层规划有个缺陷，适合修身，而不适合齐家、治家、平天下。除修身之外，做君子还必须把社会关系内生进来考虑问题。</p><p>单层规划要起作用，必须天下人人都是君子，没有小人。所谓天下无贼，但那只是王宝强们的一厢情愿，防君子不防小人。倘若身边经理人偏偏勾引你老婆，就变得不好玩了。斯密就有点象王宝强，他假设的无利益摩擦的理想世界，不存在利益相互作用。这里说的存在利益相互作用，特指不是相互作用中利己与利他的作用力相互抵消，摩擦为零，而是存在君子与小人之间利益得失之差。由于君子喻于义，小人喻于利，结果小人得利。</p><p>具体来说，在社会关系中，每个人都说自己的价值观很正点，都符合有约束最优的君子的条件，都说自己修身修得很好，每个人看上去又都人模人样的，分辩不出谁是真君子，谁是真小人。</p><p>孔子比斯密高明，提出了第二个层面上的判断标准：己所不欲，勿施于人。这也是双层规划表达的核心意思。</p><p>假设存在利益相关人X和Y，都自称君子，搞不清谁是君子，谁是小人。双方可以通过分成合约，以双层规划方式解决矛盾。双层规划最大特点是，目标函数形如（X,Y），同时包含X的利益与Y的利益。</p><p>在上层规划中，X的初始目标函数是收入权相对最大化，同时兼及Y的反应。上层约束条件方面，以Y的成本构成对X租金最大化的约束。</p><p>下层规划中，Y的初始目标是最大化分成，同时必须与X租金最大化目标相协调。在下层约束条件中，Y要在X最大化租金的成本约束下行事。</p><p>与单层规划不同，这里的有约束最优是不是最优，X与Y单方面说了不算。要与对方协商。如果X是小人，他必求所获得大于所付出，并把这一点强加于Y。即把自己所“不欲”的失，强求于Y。但Y有反击手段，就是把自身的目标，内嵌在X决策的目标函数中。而自身的目标，并不预先设定，而完全是按照“下有对策”的方式，在X出牌后再决定。这样，X就不能不有所顾忌，从而遵从“己所不欲，勿施于人”的原则行事。</p><p>同样，Y如果是小人，他也不能利用下有对策，对X的上有政策，进行无所顾忌的破坏。因为在下层规划的决策中，Y决策的目标函数中，同样也要包含X的利益目标，Y不能无限度地最大化一己私利，否则将一事无成。</p><p>双层规划方法来自Stackelberg（斯坦克尔伯格）问题，即主从递阶决策问题，过去主要是用于火箭设计之类的事情中，在经济学中后来发展成博弈论。其实，孔子的思想方法，带有浓厚的Stackelberg模型色彩。孔子的最优化方法，是仁，仁就是X与Y两个利益相对人之间的双层规划关系，做人既要考虑自己，也要考虑他人，谓之仁，数学上对应双层规划，即两根筋考虑问题。而西方的最优化方法，脑子里只有一根筋，叫个人，又称单层规划（所谓理性最优）。</p><p>当今这个世界，一根筋考虑利益问题（又叫单边主义）越来越演化成小人经济学，用单边主义思维做生意，做到最后往往成了小人；而两根筋考虑利益问题，才是君子经济学，用双层规划的思维做生意，做到最后才能做成君子。</p><p></p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>

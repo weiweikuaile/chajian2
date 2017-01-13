@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="format-detection" content="telephone=no">
+<title>《互联网周刊》--网络时代的商业周刊</title>
+<meta name="description" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<meta name="keywords" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<meta name="author" content="《互联网周刊》,互联网周刊,网络时代的商业周刊,ciweek,ciweekly" />
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/public.css">
+<link rel="stylesheet" href="css/list.css">
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="js/html5shiv.min.js"></script>
+  <script src="js/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<div class="container">
+      <!-- Static navbar -->
+      <nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+</div> <!-- /container -->
+<div class="container context">
+    <div class="con_left">
+    
+            <div class="conart">
+				<!--div id="606"><script language="javascript">enetad.load("606");</script></div-->
+				<dl class="clearfix">
+					<dt><a href="/article/2015/1202/A20151202568627.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1202/55/0204298.jpg"></a></dt>
+					<dd class="ddbak"></dd>
+					<dd>
+						<h2><a href="/article/2015/1202/A20151202568627.shtml" target="_blank">中国网络的信息哲学--牛津大学讲演录 </a></h2>
+						<p><span>中国互联网的发展得益于中国文化，中国文化也将受益于互联网发展。 ... </span><a class="hidden-xs" href="/article/2015/1202/A20151202568627.shtml" target="_blank">[更多]</a></p>
+						<span class="date hidden-xs">2015-12-02</span>
+					</dd>
+				</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1202/A20151202568626.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1202/47/0193900.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1202/A20151202568626.shtml" target="_blank">北京要抓住三星连珠之势 </a></h2>
+				<p><span>三星连珠，是指分享经济，既作为世界潮流为国际所认识，又作为互联网前沿为产业所热捧，又作为政策被中央所倡导，难得同时代表三种主要的势。北京要借好这个势，谋得高精尖的新发展。 ... </span><a class="hidden-xs" href="/article/2015/1202/A20151202568626.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-12-02</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1202/A20151202568625.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1202/72/0182236.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1202/A20151202568625.shtml" target="_blank">思想上的雾霾不除，我们空气当中的雾霾是不可能根除的 </a></h2>
+				<p><span>如果当下的环境进一步恶化，代价将不仅是治理成本的增加，还会伴随一系列的民生问题。 ... </span><a class="hidden-xs" href="/article/2015/1202/A20151202568625.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-12-02</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1201/A20151201568624.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1201/84/9316213.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1201/A20151201568624.shtml" target="_blank">互联网金融今后的两大走向 </a></h2>
+				<p><span>看似处于对立面的互联网企业与银行走到了一起，预示了国内互联网金融的发展又到了新阶段，今后两大走向。 ... </span><a class="hidden-xs" href="/article/2015/1201/A20151201568624.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-12-01</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1124/A20151124568614.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1124/90/3282807.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1124/A20151124568614.shtml" target="_blank">IPO重启首批发行28家公司的目标、使命、价值观 </a></h2>
+				<p><span>IPO的重启为国内企业提供了一个新的发展契机，但上市并非终点，而是一个新的开始。 ... </span><a class="hidden-xs" href="/article/2015/1124/A20151124568614.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-11-24</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1120/A20151120568611.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1120/65/0084473.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1120/A20151120568611.shtml" target="_blank">成功，一定是建立在超越自身的利益之上 </a></h2>
+				<p><span>成功是他人都认同的成功，对于那些小我感觉良好的自我成功不在本论题之内。很多成功和失败的事例都告诉我们：成功者，往往怀抱着代表更多人利益的目标，成功，一定是建立在超越自身利益之上的。 ... </span><a class="hidden-xs" href="/article/2015/1120/A20151120568611.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-11-20</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1116/A20151116568601.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1116/91/6368203.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1116/A20151116568601.shtml" target="_blank">拍拍的倒掉与商业模式的关联度到底有多大 </a></h2>
+				<p><span>拍拍网成立10年却在今日倒掉，把拍拍夭折的原因怪罪在C2C这种难以监管的模式上是否恰当？ ... </span><a class="hidden-xs" href="/article/2015/1116/A20151116568601.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-11-16</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1116/A20151116568600.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1116/75/6366433.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1116/A20151116568600.shtml" target="_blank">明星投资吸金，为何偏爱科技市场？ </a></h2>
+				<p><span>明明已经是事业爱情双丰收的人生赢家了，究竟是什么吸引着汪峰不顾韩庚、崔健的前车之鉴一定要进军科技界呢？ ... </span><a class="hidden-xs" href="/article/2015/1116/A20151116568600.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-11-16</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1116/A20151116568599.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1116/90/6364194.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1116/A20151116568599.shtml" target="_blank">那些挑战阿里的电商联军们，今年双十一表现如何？未来电商三大趋势！ </a></h2>
+				<p><span>盛况空前的双十一面具下，到底隐藏着电商怎样的未来？ ... </span><a class="hidden-xs" href="/article/2015/1116/A20151116568599.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-11-16</span>
+			</dd>
+		</dl>
+
+        <dl class="clearfix">
+			<dt><a href="/article/2015/1112/A20151112568595.shtml" target="_blank"><img src="http://images.enet.com.cn/2015/1112/98/2937408.jpg"></a></dt>
+			<dd class="ddbak"></dd>
+			<dd>
+				<h2><a href="/article/2015/1112/A20151112568595.shtml" target="_blank">2015中国10大家电品牌排行榜 </a></h2>
+				<p><span>中国家电行业是最对外早开放的行业之一。30多年来，中国家电市场从导入期到快速普及期、从卖方市场到买方市场、从实体门店到O2O、从制造到创造再到创新、从产品为王到渠道为王再到用户为王，30年走过了发 ... </span><a class="hidden-xs" href="/article/2015/1112/A20151112568595.shtml" target="_blank">[更多]</a></p>
+				<span class="date hidden-xs">2015-11-12</span>
+			</dd>
+		</dl>
+
+<div class="page hidden-xs">
+
+<a class="pastyle" href="/v7/list.jsp?page=1&siteid=ciweek&ccid=7510">首页</a> <a class="pastyle" href="/v7/list.jsp?page=14&siteid=ciweek&ccid=7510">上一页</a>
+<a class="pagrey2" href=/v7/list.jsp?page=11&siteid=ciweek&ccid=7510>11</a><a class="pagrey2" href=/v7/list.jsp?page=12&siteid=ciweek&ccid=7510>12</a><a class="pagrey2" href=/v7/list.jsp?page=13&siteid=ciweek&ccid=7510>13</a><a class="pagrey2" href=/v7/list.jsp?page=14&siteid=ciweek&ccid=7510>14</a><a>15</font></a>
+<a class="pastyle pagrey">下一页</a> <a class="pastyle pagrey">末页</a>
+</div>
+<div class="page pagemobile hidden-lg hidden-md hidden-sm">
+
+<a class="pastyle" href="/v7/list.jsp?page=14&siteid=ciweek&ccid=7510">上一页</a>
+
+<span class="pamar"></span>
+
+<a class="pastyle pagrey">下一页</a>
+
+</div>
+<div id="phid" style="display:none;">15</div>
+</div>
+
+    </div>
+    <div class="con_mid_bak"></div>
+    <div class="con_right">
+    	<dl class="dlright">
+        	<dt>
+	<div><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"></a></div>
+    <div class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v7/images/con7.jpg" width="100%" height="auto"></a></div>
+    <div class="img" id="607"><script src='http://www9.enet.com.cn/mem_str_zoneid=607'></script></div>
+</dt>
+<dd>
+    <ul>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1013/A20151013568408.shtml">未来一流公司不会用二手模式</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1023/A20151023568463.shtml">2015迄今中国最好的十款智能家居产品</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1019/A20151019568443.shtml">2015互联网金融分类排行</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1016/A20151016568424.shtml">2015中国工程咨询机构300强</a></li>
+        <li><a target="_blank" href="http://www.ciweek.com/article/2015/1016/A20151016568421.shtml">2015互联网+企业通信服务商TOP100</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/1015/A20151015568416.shtml">2015企业WI-FI解决方案提供商TOP100</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/1015/A20151015568418.shtml">制造业最需要的不是互联网思维，而是软实力或精神价值重塑</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0812/A20150812568161.shtml">国家战略：互联社区</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0810/A20150810568156.shtml">时间停止的时刻可以延续吗？</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0806/A20150806568148.shtml">为什么一个人可以干一行爱一行，为什么成功的人都是干一行爱一行？</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0731/A20150731568130.shtml">孤独是伟大公司诞生的前奏</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0730/A20150730568128.shtml">怎样做一个企业？尤其是在这个互联网时代</a></li>
+		<li><a target="_blank" href="http://www.ciweek.com/article/2015/0727/A20150727568118.shtml">手机将在5年后消失？</a></li>		
+    </ul>
+    <a class="more" href="#">MORE +</a>
+</dd>
+        </dl>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+$(document).ready(function(){
+	//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var dlright = $('.dlright').height()+''.replace('px','')*1;
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			var dtright = $('.dlright dt').height()+''.replace('px','')*1;
+			var ddright = con_left - dtright-106;
+			if( dlright > con_left){
+				$('.dlright').css('height',dlright)
+			}else{
+				$('.dlright dd').css('height',ddright);
+			}
+		}	
+	})
+})
+</script>
+</body>
+</html>

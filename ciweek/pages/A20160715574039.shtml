@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0;">
+<meta name="description" content="网络经济需要怎样的均衡,本文主要介绍,总编寄语, 网络经济越成熟，越需要更基础的解释。现有解释不成熟的一个重要表现是，忽视基础理论，偏离均衡这一基本面，只从细枝末节来认识网络。网络界更有一种有代表性的观点认为，均衡是传统经济及其理论的特征，网络经济会打破均衡，根本不需要均衡理论。我去年出版《信息化与网络经济：基于均衡的效率与效能分析》一书（以下简称《均衡》），挑战了这一观点。第一次系统构建了网络经济的均衡理论。在我看来，理论经济学与理论物理学一样，都是文明一级的“统一场”论。不同以往，《均衡》的立论特色在于从后现代角度阐释网络经济的“统一场”。这一角度相对于传统均衡理论和前卫的后现代理论来说，都是相当“怪异”的。研究网络经济20年的我，当然不认为这是怪异，而认为这是对新经济下的新常态的一种先见。下面解释一下我的思路">
+<meta name="keywords" content=",,总编寄语,网络,经济,均衡">
+<meta name="author"  content=",,总编寄语,网络,经济,均衡">
+<title>网络经济需要怎样的均衡</title>
+<link rel="stylesheet" href="/v7/css/bootstrap.css">
+<link rel="stylesheet" href="/v7/css/public.css">
+<link rel="stylesheet" href="/v7/css/detail.css">
+<script src="/v7/js/jquery.js"></script>
+<script src="/v7/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+  <script src="/v7/js/html5shiv.min.js"></script>
+  <script src="/v7/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+aid="20160715574039";atitle='%CD%F8%C2%E7%BE%AD%BC%C3%D0%E8%D2%AA%D4%F5%D1%F9%B5%C4%BE%F9%BA%E2';a_date="2016-07-15 10:05";a_author="姜奇平";a_source="eNet硅谷动力";a_type="0";a_editor="wgtong";a_acid="7277";a_acname="总编寄语";a_pid="";var same_pid = new Array();
+var keys = new Array();
+keys[0]="网络";
+keys[1]="经济";
+keys[2]="均衡";
+var siteid="ciweek";
+var surl="http://www.enet.com.cn/";
+-->
+</script>
+</head>
+<body>
+<div class="container">
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default navback">
+        <div class="container-fluid">
+          <div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed navbutt" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand navimg" href="http://www.ciweek.com/"><img src="/v7/images/logo2.png"/></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav navul">
+    <li><a href="/">首页</a></li>
+    <li><a href="/v7/list.shtml">内容</a></li>
+    <li><a href="http://dingyue.ciweek.com/">订阅</a></li>
+    <li><a href="/v7/hd.shtml">活动</a></li>
+    <li><a href="/v6/ln.shtml">理念</a></li>
+    <li><a href="/v7/vip/vip.shtml">VIP</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+	</nav>
+</div><!-- /container -->
+<!--div class="blank52"></div>
+<div class="bann980"><img src="/v6/images/banner.jpg" width="980" height="90"/></div>
+<div class="bann clearfix">
+  <div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div>
+    <div class="bann250"><img src="/v6/images/banner.jpg" width="250" height="90"/></div>
+</div-->
+<div class="container context">
+    <div class="con_left">
+		<!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="title">网络经济需要怎样的均衡</p>
+        <!--div class="bann690"><img src="/v6/images/banner.jpg" width="690" height="90"/></div-->
+        <p class="date">
+            <span class="spdate">2016-07-15</span>
+            <span class="spauthor">eNet&Ciweek/姜奇平</span>
+        </p>
+        <div class="recom">
+			<span>推荐语</span>
+			<p>网络经济越成熟，越需要更基础的解释。现有解释不成熟的一个重要表现是，忽视基础理论，偏离均衡这一基本面，只从细枝末节来认识网络。网络界更有一种有代表性的观点认为，均衡是传统经济及其理论的特征，网络经济会打破均衡，根本不需要均衡理论。我去年出版《信息化与网络经济：基于均衡的效率与效能分析》一书（以下简称《均衡》），挑战了这一观点。第一次系统构建了网络经济的均衡理论。在我看来，理论经济学与理论物理学一样，都是文明一级的“统一场”论。不同以往，《均衡》的立论特色在于从后现代角度阐释网络经济的“统一场”。这一角度相对于传统均衡理论和前卫的后现代理论来说，都是相当“怪异”的。研究网络经济20年的我，当然不认为这是怪异，而认为这是对新经济下的新常态的一种先见。下面解释一下我的思路</p>
+        </div> 
+        <div class="text">
+        	<p><a href='http://www.enet.com.cn/networks/' target='_blank' class='article'>网络</a>经济越成熟，越需要更基础的解释。现有解释不成熟的一个重要表现是，忽视基础理论，偏离均衡这一基本面，只从细枝末节来认识网络。网络界更有一种有代表性的观点认为，均衡是传统经济及其理论的特征，网络经济会打破均衡，根本不需要均衡理论。我去年出版《<a href='http://www.enet.com.cn/cio/' target='_blank' class='article'>信息化</a>与网络经济：基于均衡的效率与效能分析》一书（以下简称《均衡》），挑战了这一观点。第一次系统构建了网络经济的均衡理论。在我看来，理论经济学与理论物理学一样，都是文明一级的“统一场”论。不同以往，《均衡》的立论特色在于从后<a href='http://product.enet.com.cn/price/plist32_2535.shtml' target='_blank' class='article'>现代</a>角度阐释网络经济的“统一场”。这一角度相对于传统均衡理论和前卫的后现代理论来说，都是相当“怪异”的。研究网络经济20年的我，当然不认为这是怪异，而认为这是对新经济下的新常态的一种先见。下面解释一下我的思路。</p><p><div class='wzpic'><img src='http://images.enet.com.cn/2016/0714/29/4741122.jpg' width='500' height='378' alt='1' title='1' border='1' /><p></p></div></p><p><b>网络经济为什么需要均衡——新经济理论没有打中要害</b></p><p></p><p>传统经济学界对各种网络经济“学说”不屑一顾，一个重要理由是，各种“学说”讲的道理，局部看有道理，但在全局性的均衡水平，找不到根据，因此只是小道理。而在关于网络经济的内部讨论中，许多网络专家对传统经济学不屑一顾，认为它缺乏对现实的解释力。其中一些人认为均衡的“大道理”本身，就是一种形而上的宏大叙事，由此走向相对主义。</p><p></p><p>我以为，均衡无非是一种力量平衡，具体到资源配置来说，就是供求相等。网络经济并不能否定供求要相等。不能说，搞了网络经济，供给就可以背离需求。别的不说，C2B就要求B这个供给方，要更加适应C这个需求方。反驳者会说，我不是这个意思。我的意思是网络经济是一对一供求精准相等，不存在一个形而上的总均衡价格，可以对P2P每个节点放之四海皆准。那我要反问，假设每个节点是均衡的，全局上看，供给与需求是不是平衡的？可见，用个别均衡不等于全局均衡，并不能反证出均衡问题不存在。后现代相对主义在这个问题上，不仅不能取消均衡问题，甚至连最优问题也无法取消。因为运用新的数学规划方法，我们可以轻易把传统最优理解为全局最优，而把点对点的最优转化为情境最优，用于一对一定价（如《情境定价》）。</p><p></p><p>新经济理论攻击均衡，是一种不成熟的表现；成熟的做法是将议题设置为“什么样的均衡”——工业经济的供求相等与网络经济的供求相等有什么相同与不同——而不是供求要不要相等。</p><p></p><p>《均衡》与网络界众多“同一战壕战友”立论的不同是议题设置上的，我认为网络经济不是存不存在均衡的问题，而提出存在两种均衡：工业化均衡与信息化均衡。全书的中心线索在于这样一个规律的发现：信息化均衡与工业化均衡之间，在价格上存在一个固定差值（AC-MC）。</p><p></p><p><b>如何把握网络经济均衡的特殊性——新经济理论没有把问题问对</b></p><p></p><p>这又是一个与众不同的独特思路。一般人认为，均衡就是均衡，网络经济没什么特殊的，它的均衡与标准均衡在根上没什么不同（它直接通向网络经济“用”变而“体”不变的推论）。而网络激进观点则认为，网络经济太特殊了，均衡对它没有任何意义。我的观点则是把网络经济的“体”，高度概括在一个形式上与工业经济对称的范式中。</p><p></p><p>《均衡》明确了两种均衡的“体”不同，工业化均衡的“体”是简单性范式（同质性假定，假设世界上只存在一个品种），信息化均衡的“体”是复杂性范式（异质性假定，假设世界上存在多个品种）。信息化经济就是一种使多样化（如个性化、定制）在均衡水平从不经济到经济的转变过程。</p><p></p><p>由于核心范式是复杂性，这就涉及与复杂性经济学的关系。在初始方法上，《均衡》与前沿的复杂经济学（如阿瑟的“复杂经济学”）完全相反。“复杂经济学”不承认均衡，认为复杂性与均衡存在实质冲突；《均衡》却提出复杂性均衡这一既不同于（标准）均衡（均衡点在P=MC）又不同于复杂性的新概念。复杂性均衡的前身是垄断竞争均衡（均衡点在P=AC），垄断竞争可视为内生了差异化的完全竞争（这是张伯仑的原意）。在出发点上，“复杂经济学”与经济学传统一刀两断，而《均衡》则认为网络经济是从工业经济中内在地转化而来的一场革命。当然，这只是方法上的不同，《均衡》与“复杂经济学”的实质内容是一致的。</p><p></p><p>《均衡》与“复杂经济学”实质一致而方法相反，相反的那个点，就在复杂性议题的定义方法上。在我看来，“复杂经济学”定义的复杂性，是具体的复杂性；《均衡》定义的复杂性，是抽象的复杂性。具体的复杂性，是复杂性的现象，如多样性、拓扑结构、小世界网络、超链接、非线性、混沌……等等；抽象的复杂性，是指上述现象的程度（用品种来代表），如非线性到什么程度、混沌到什么程度。复杂性的具体表现形式多种多样，但它们在质的不同上，存在一个从简单性（同质化）到复杂性（异质化）的程度渐变，这是它们的共同点，也就是要抽象出来的那个维度（数轴）。</p><p></p><p>我认为发展到“复杂经济学”高度有新经济理论没有把问题问对，它问的只是复杂性的具体的质对经济的影响，质与质之间是不通约的，因此导向了用自然科学的方法（如复杂性“科学”的方法）研究问题；而《均衡》问的是，当过滤掉具体的质的不同后，把质抽象为可通约的量，系统复杂性在量上每偏离简单性（同质化假定）一分，全局相对于原系统会发生怎样的变化。也可以说，“复杂经济学”是用质的方法研究质，而《均衡》是用量的方法研究质。</p><p></p><p>在经济学传统中，对质的量化一直是个难题。难点在于，同质性假定在数学上意味着，只有一条需求曲线或一条成本曲线。如果打破同质化假定，从一个品种，扩展到多个品种，每个品种代表一个不同的质，意味着会出现多条需求曲线或多条成本曲线，无法进行均衡计算。现代经济学中的“代表性消费者模型”提供了解决这一问题的思路，它将不同的需求曲线合并成一条“代表性”的需求曲线，将质从具体转化为抽象。在《均衡》中，这个难题是通过设立“品种”这个维度实现的。品种数，对应的是在质上不同的需求曲线的条数，或成本曲线的条数。复杂性经济学提出的问题变成，比如，当系统中存在的需求曲线从一条（同质化）变为多条（多样化）时，条数变化（质的差异化程度变化）对原系统（工业经济）带来的改变。</p><p></p><p>《均衡》实际上研究的是，当把网络经济高度抽象为它的“体”时，新体相对于旧体的每一分体变，会对系统带来怎样的整体量变。我个人第一次发现，工业化与信息化的融合，是通过一条等均衡线（长尾曲线）渐进演变的，而这种演变有一个固定的节奏，即平均成本减边际成本。这一奇异规律，也许一代人都不会理解，但当他们对网络经济的信息量积累到和我这20年程度相当时，我看到的，他们也一定可以轻松看到。</p><p></p><p><b>把握网络经济的系统方法——新经济理论必须碎片化吗</b></p><p></p><p>我个人当然不反对用质的方法研究质，用碎片化的方法研究形而下（我在《后现代经济》一书中采用的就是这样的方法），但我坚持认为，不应把复杂性与系统论对立起来，不应放弃从整体上把握复杂性。复杂性本身就是一种系统现象，不存在孤立的复杂性。所谓碎片化，也是相互有机联系中的碎片化。因此没必要一概拒斥体系，只要不唯体系就可以。</p><p></p><p>《均衡》采取的是看上去有悖于后现代风格的写作方法，为此我准备接受网络界战友们的“攻击”，但它的内容与《后现代经济》并无二致。将规范数学方法运用于后现代思想的表达，对我也是一个挑战。主要是为了与传统经济学家沟通。思想不同，如果术语再不相同，就会变成鸡同鸭讲。我理解内容与方法统一的重要与必要，但《均衡》并不以此为追求。它希望以相同的形式，进行不同知识背景相反内容之间的新旧沟通。</p>
+			<span class="author">责任编辑/兴明</span>
+        </div>
+		<ul class="share clearfix">
+		
+		<li><a href="javascript:;" class="jiathis_button_tqq"><img src="/v7/images/sha_qq.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_weixin"><img src="/v7/images/sha_weixin.jpg"/></a></li>
+<li><a href="javascript:;" class="jiathis_button_tsina"><img src="/v7/images/sha_weibo.jpg"/></a></li>
+<li><img src="/v7/images/sha.jpg" width="15" height="17"></li>
+		</ul><!-- ul.share end -->
+        <div class="disc">
+   <p>您对本文或本站有任何意见，请在下方提交，谢谢！</p>
+     <textarea style=" resize:none;" id="adj"></textarea>
+     <input style="cursor:pointer;" value="提交" type="submit" id="updateCmt">
+</div><!-- div.disc end -->
+<div class="mailbox"> 投稿信箱：<a href="mailto:tougao@ciweek.com">tougao@ciweek.com</a></div>
+    </div>
+	<div class="con_mid_bak"></div>
+    <div class="con_right">
+        <dl class="dlright clearfix">
+    <dt><img src="/v7/images/weixin.jpg" width="94" height="94"></dt>
+    <dd>
+        <p class="firp">微信号: ciweekly</p>
+        <p class="secp">微信公众平台: </p>
+        <p>搜索ciweekly</p>
+        <p>或扫描二维码</p>
+    </dd>
+</dl>
+<ul class="ulimg">
+    <li><a href="http://www.ciweek.com/v6/ln.shtml" target="_blank"><img src="/v7/images/con5.jpg" width="100%" height="auto"/></a></li>
+    <li class="img"><a href="http://www.enet.com.cn/about/culture/culture.html" target="_blank"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></a></li>
+<!--    <li class="img"><img src="/v6/images/con7.jpg" width="100%" height="auto"/></li>-->
+</ul>
+    </div>
+    <div class="top" id="gotop"></div>
+</div>
+<div class="container-fluid footer"><p>互联网周刊&nbsp;&nbsp;版权所有&nbsp;&nbsp;新出发京批字第版0015号&nbsp;&nbsp;京ICP备05046753号&nbsp;&nbsp;京公网安备11010102000818号</p></div>
+<script type="text/javascript" src="/v7/js/gotop.js"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<script>
+//分享按钮代码
+var jiathis_config = {
+	boldNum:0,
+	siteNum:7,
+	showClose:false,
+	sm:"t163,kaixin001,renren,douban,tsina,tqq,tsohu",
+	imageUrl:"http://v2.jiathis.com/code/images/r5.gif",
+	imageWidth:26,
+	marginTop:150,
+	url:location.href,
+	title:"互联网周刊",
+	summary:"",
+	//pic:"http://ljj.i.enet.com.cn/20141201_ciweek/images/detail.jpg",
+	data_track_clickback:true,
+	appkey:{
+		"tsina":"",
+		"tqq":"",
+		 "tpeople":""
+	},
+	ralateuid:{
+		"tsina":"您的新浪微博UID"
+	},
+	"shortUrl":true,
+}
+
+$(function($) {
+    var url = 'http://cmt.enet.com.cn/backend/ci_week_handle.php';
+    $('#updateCmt').click(function()
+    {       
+        var title = $('title').text();
+        var locat = location.href;
+        var content = $('#adj').val();
+        if (!content) {
+            alert('请输入内容')
+            return ;
+        };
+        var contentData = {con:content,href:locat,title:title} ;
+        $.getJSON(url+'?callback=?',contentData,function(json)
+        {
+            if(json.error)
+            {
+                alert('失败');
+            }else{
+                alert('成功');
+                $('#adj').val('')
+            }
+        })
+    })
+});
+
+//con_right 高度自适应
+	$(function($){
+		/*var pageWidth = window.innerWidth;
+		if (typeof pagewidth != "number"){
+			if(document.compatMode == "CSS1Compat"){
+				pagewidth = document.documentElement.clientWidth;	
+			}else{
+				pagewidth = document.body.clientWidth;	
+			}	
+		}*/
+		var pageWidth = $(window).width();
+		if( pageWidth > 767){
+			var con_left = $('.con_left').height()+''.replace('px','')*1;
+			con_left = con_left - 133;
+			$('.con_right').css('height',con_left);	
+		}
+	})
+</script>
+</body>
+</html>
