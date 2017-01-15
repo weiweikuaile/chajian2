@@ -38,6 +38,8 @@ foreach ($link_arr[1] as $k=>$v){
 	//print_r($thumbarr['http://www.ciweek.com'.$v]=$img);
 }
 //print_r($thumbarr);
+///* 将 EUC-JP 转换成 UTF-7 */
+//$str = mb_convert_encoding($str, "UTF-7", "EUC-JP");
 $thumbarr['http://www.ciweek.com'.$topiclink[1][0]] = $topicarr[1][0];
 $topic = array('http://www.ciweek.com'.$topiclink[1][0]=>$topicarr[1][0]);
 foreach ($thumbarr as $key2 => $value2){
