@@ -44,7 +44,7 @@ $thumbarr['http://www.ciweek.com'.$topiclink[1][0]] = $topicarr[1][0];
 $topic = array('http://www.ciweek.com'.$topiclink[1][0]=>$topicarr[1][0]);
 foreach ($thumbarr as $key2 => $value2){
 	phpQuery::newDocumentHtml(
-		file_get_contents($key2);
+		file_get_contents($key2)
  
  		);
 	if($value2 == key($topic)){
