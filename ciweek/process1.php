@@ -69,7 +69,7 @@ $topic = array('pages'.substr($topiclink[1][0],strrpos($topiclink[1][0],'/'))=>$
 var_dump($topic);// 'pages/A20161019574275.shtml' => string 'http://images.enet.com.cn/2016/1019/11/8476108.jpg' (length=50)
 //获取文章数据
 foreach ($pages as $key2 => $value2) {
-  var_dump($value2);//pages/A20151112568595.shtml
+  //var_dump($value2);//pages/A20151112568595.shtml
     phpQuery::newDocumentHtml(
     //iconv('gbk','utf-8',file_get_contents($value2))
       mb_convert_encoding(file_get_contents($value2),'UTF-8','GB2312')
@@ -180,7 +180,7 @@ foreach ($pages as $key2 => $value2) {
 //$sql1 = 'insert into article(releasetime,title,image) values('.$data['releasetime'][0].',"'.$data['title'][0].'","'.$data['img'][0].'")';
 //$sql1 = "insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('.$rec['catid'].','.$rec['typeid'].',"'.$rec['title'].'","'.$rec['style'].'","'.$rec['thumb'].'","'.$rec['keywords'].'","'.$rec['description'].'",'.$rec['posids'][0].',"'.$rec['url'].'",'.$rec['listorder'].','.$rec['status'].','.$rec['sysadd'].','.$rec['islink'].',"'.$rec['username'].'",'.$rec['inputtime'].','.$rec['updatetime'].')";
 $sql1 = "insert into v9_news(catid,typeid,title,style,thumb,keywords,description,posids,url,listorder,status,sysadd,islink,username,inputtime,updatetime) values('{$rec['catid']}','{$rec['typeid']}','{$rec['title']}','{$rec['style']}','{$rec['thumb']}','{$rec['keywords']}','{$rec['description']}','{$rec['posids'][0]}','{$rec['url']}','{$rec['listorder']}','{$rec['status']}','{$rec['sysadd']}','{$rec['islink']}','{$rec['username']}','{$rec['inputtime']}','{$rec['updatetime']}')";
-//print_r($sql1);exit;
+print_r($sql1);exit;
 
 $result = mysqli_query($link,$sql1);
 //var_dump($link);exit;
