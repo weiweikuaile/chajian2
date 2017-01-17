@@ -147,7 +147,7 @@ echo "<br>";
 			$checkerror =$articleid."\r\n".$sql2;
 			$current =file_put_contents($file,$checkerror,FILE_APPEND);
 		}
-		//print_r($sql1);
+		//print_r($sql1);//每页循环10条新闻列表
 	}else{
 		$file="b.txt";
 		$checkerror =$result.PHP_EOL.$TT.PHP_EOL.$articleid."\r\n".$sql1;
