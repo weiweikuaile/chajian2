@@ -1,4 +1,5 @@
 <?php
+set_time_limit(0);
 header("Content-type:text/html;charset=utf-8");
 include 'phpQuery.php';
 $pages = glob('pages/*.shtml');
@@ -10,6 +11,7 @@ mysqli_select_db($link,"phpcmsv9");
 mysqli_set_charset($link,"utf8");
 $list = "http://www.ciweek.com/list-1.shtml";
 $str = file_get_contents($list);
+//print_r($str);
 //匹配topic的链接
 preg_match_all('/<dl class="toppic">[\s\S].*?<dt[^>]*.<a href="(.*?)"/is',$str,$topiclink);
 //print_r($topiclink[1][0]);///article/2017/0109/A2017010919048.shtml
@@ -31,7 +33,7 @@ for($i=1;$i<=$arr1[1];$i++){
 foreach ($pagearr as $k => $v){
 	$list2 = file_get_contents($v);
 	//print_r($list2);
-
+//print_r($str);exit;
 //exit;
 //匹配列表的链接
 preg_match_all('/<dl class="clearfix">[\s\S].*?<dt[^>]*.<a href="(.*?)"/is',$str,$link_arr);
@@ -43,7 +45,7 @@ preg_match_all('/<dl class="clearfix">[\s\S].*?<dt[^>]*.<a href=".*?<img src="(.
 echo '<pre>';
 foreach ($link_arr[1] as $k=>$v){
 	//print_r($v);exit;// 打印出/article/2017/0109/A2017010919047.shtml
-	//print_r($k);exit;//打印出$link_arr的下标
+	//print_r($k);exit;//打印出$link_arr的下标，$link_arr[1]的$k和$arr2[1]的$k是一致的
 	$img = $arr2[1][$k];
 	$thumbarr['http://www.ciweek.com'.$v]=$img;
 	//print_r($thumbarr['http://www.ciweek.com'.$v]=$img);

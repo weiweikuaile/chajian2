@@ -47,16 +47,16 @@ foreach ($pagearr as $k => $v){
 	echo '<pre>';
 	//print_r($str);exit;
 	//匹配列表的链接
-	preg_match_all('/<dl class="clearfix">[\s\S].*?<dt[^>]*.<a href="(.*?)"/is',$str,$link_arr);
-	print_r($link_arr[1]);
+	@preg_match_all('/<dl class="clearfix">[\s\S].*?<dt[^>]*.<a href="(.*?)"/is',$str,$link_arr);
+	//print_r($link_arr[1]);打印出链接的数组
 	//匹配列表的图片
-	preg_match_all('/<dl class="clearfix">[\s\S].*?<dt[^>]*.<a href=".*?<img src="(.*?)"/s',$str,$arr2);
-	print_r($arr2[1]);//exit;//打印出图片的数组
+	@preg_match_all('/<dl class="clearfix">[\s\S].*?<dt[^>]*.<a href=".*?<img src="(.*?)"/s',$str,$arr2);
+	//print_r($arr2[1]);//exit;//打印出图片的数组
 	//遍历且组成一个新的数组thumbarr
 	echo '<pre>';
 	foreach ($link_arr[1] as $k=>$v){
 		//print_r($v);exit;// 打印出/article/2017/0109/A2017010919047.shtml
-		//print_r($k);exit;//打印出$link_arr的下标
+		//print_r($k);exit;//打印出$link_arr的下标，$link_arr[1]的$k和$arr2[1]的$k是一致的
 		$img = $arr2[1][$k];
 		$thumbarr['http://www.ciweek.com'.$v]=$img;
 		//print_r($thumbarr['http://www.ciweek.com'.$v]=$img);
@@ -73,7 +73,9 @@ foreach ($pagearr as $k => $v){
 		phpQuery::newDocumentHtml(
 			//mb_convert_encoding(file_get_contents($key2),'UTF-8','GB2312') 
 			file_get_contents($key2)
+		
 	 		);
+		
 		//print_r(key($topic))) ;//函数返回数组中内部指针指向的当前单元的键名
 		if($key2 == key($topic)){
 			$rec['toppic']=1;
@@ -110,7 +112,7 @@ foreach ($pagearr as $k => $v){
 	//print_r($content);
 	$rec['content'] =htmlspecialchars(str_replace("'","''",$content),ENT_QUOTES);
 	//print_r($rec['content']);//看不出来有什么变化
-	$rec['paginationtype'] = '0';
+	  $rec['paginationtype'] = '0';
 	  $rec['maxcharperpage'] = '10000';
 	  $rec['posids'][0] =1;
 	  $rec['groupids_view' ]='1';

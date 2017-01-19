@@ -4,9 +4,9 @@ process.php 2017/1/17°æ±¾ÊÇÕë¶ÔĞÂÍøÕ¾(http://www.ciweek.com/list-1.shtml)µÄ×¥È¡µ
 process0110final.phpÊÇÀÏÍøÕ¾µÄ×îÖÕ°æ±¾http://ciweek.com/v7/list.jsp ÇÒ×¥È¡µÄÍøÒ³Êı¾İ·Åµ½Í¬Ò»¸öÎÄ¼şÀïy.html
 
 process1.phpºÍprocess25.phpÊÇÕë¶Ôhttp://ciweek.com/v7/list.jsp×¥È¡µÄ£¬±¾ÈË¾õµÃ±È
-process0110final.php¿¿Æ×
+process0110final.php¿¿Æ×,ÆäÖĞprocess25.php¸ü¼Ó±ê×¢¶àÒ»Ğ©¡£
 ÒÔÉÏ¶¼ÊÇÓÃfile_get_contentsºÍphpQueryÀ´ÊµÏÖµÄ
 
-processcurl.phpÊÇÓÃcurl·½Ê½×¥È¡µÄ,
+processcurl.phpÊÇÓÃcurl·½Ê½×¥È¡µÄ,³¢ÊÔÔÚ50¡¢53ĞĞpreg_match_allÇ°¼ÓÁË@,ÎªÁËÒÖÖÆ´íÎóÊä³ö£¬²»±¨Õâ¸ö´íÁËWarning: preg_match_all() expects parameter 2 to be string, array given in E:\wamp\www\chajian2\ciweek\processcurl.php on line?50
 
 ×¥È¡È«²¿µÄ500ÌõÊı¾İ
